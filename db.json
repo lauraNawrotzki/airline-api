@@ -1,0 +1,6772 @@
+{
+  "airlines": [
+    {
+      "Name": "ABC Air Hungary",
+      "IATA": "–",
+      "ICAO": "AHU",
+      "Rufzeichen": "ABC HUNGARY",
+      "Herkunftsland": "Ungarn",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Abelag Aviation",
+      "IATA": "W9",
+      "ICAO": "AAB",
+      "Rufzeichen": "ABG",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C (Business- u. Ambulanzflüge)"
+    },
+    {
+      "Name": "ABS Jets",
+      "IATA": "–",
+      "ICAO": "ABP",
+      "Rufzeichen": "BAIR",
+      "Herkunftsland": "Tschechien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Abu Dhabi Aviation",
+      "IATA": "–",
+      "ICAO": "AXU",
+      "Rufzeichen": "–",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "ABX Air",
+      "IATA": "GB",
+      "ICAO": "ABX",
+      "Rufzeichen": "ABEX",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "ACM Air Charter",
+      "IATA": "–",
+      "ICAO": "BVR",
+      "Rufzeichen": "BAVARIAN",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "AirClub",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "ACT Airlines",
+      "IATA": "9T",
+      "ICAO": "RUN",
+      "Rufzeichen": "CARGO TURK",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Aegean Airlines",
+      "IATA": "A3",
+      "ICAO": "AEE",
+      "Rufzeichen": "AEGEAN",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aer Arann Islands",
+      "IATA": "RE",
+      "ICAO": "REA",
+      "Rufzeichen": "AER ARANN",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Aer Lingus",
+      "IATA": "EI",
+      "ICAO": "EIN",
+      "Rufzeichen": "SHAMROCK",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Aero Charter",
+      "IATA": "DW",
+      "ICAO": "UCR",
+      "Rufzeichen": "CHARTER UKRAINE",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Aero Contractors (Nigeria)",
+      "IATA": "AJ",
+      "ICAO": "NIG",
+      "Rufzeichen": "AEROLINE",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aero Contractors",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "-",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "R"
+    },
+    {
+      "Name": "Aero-Dienst",
+      "IATA": "–",
+      "ICAO": "ADN",
+      "Rufzeichen": "AERODIENST",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P (auch Ambulanzflüge)"
+    },
+    {
+      "Name": "Aero-Service",
+      "IATA": "BF",
+      "ICAO": "RSR",
+      "Rufzeichen": "CONGOSERV",
+      "Herkunftsland": "Republik Kongo",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aerogaviota",
+      "IATA": "KG",
+      "ICAO": "GTV",
+      "Rufzeichen": "AEROGAVIOTA",
+      "Herkunftsland": "Kuba",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Aero Mongolia",
+      "IATA": "M0",
+      "ICAO": "MNG",
+      "Rufzeichen": "AERO MONGOLIA",
+      "Herkunftsland": "Mongolei",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AeroRescue",
+      "IATA": "–",
+      "ICAO": "RES",
+      "Rufzeichen": "Search",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "Search and Rescue"
+    },
+    {
+      "Name": "Aerostar Airlines",
+      "IATA": "–",
+      "ICAO": "UAR",
+      "Rufzeichen": "AEROSTAR",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Aerosucre",
+      "IATA": "–",
+      "ICAO": "KRE",
+      "Rufzeichen": "AEROSUCRE",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Aerounion - Aerotransporte de Carga Union",
+      "IATA": "6R",
+      "ICAO": "TNO",
+      "Rufzeichen": "AEROUNION",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Aerovías Dap",
+      "IATA": "–",
+      "ICAO": "DAP",
+      "Rufzeichen": "DAP",
+      "Herkunftsland": "Chile",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Aeroflot",
+      "IATA": "SU",
+      "ICAO": "AFL",
+      "Rufzeichen": "AEROFLOT",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aerogem Aviation",
+      "IATA": "–",
+      "ICAO": "GCK",
+      "Rufzeichen": "AEROGEM",
+      "Herkunftsland": "Ghana",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Aerolíneas Argentinas",
+      "IATA": "AR",
+      "ICAO": "ARG",
+      "Rufzeichen": "ARGENTINA",
+      "Herkunftsland": "Argentinien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aerolitoral",
+      "IATA": "5D",
+      "ICAO": "SLI",
+      "Rufzeichen": "COSTERA",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aerologic",
+      "IATA": "3S",
+      "ICAO": "BOX",
+      "Rufzeichen": "GERMAN CARGO",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Aeromar",
+      "IATA": "VW",
+      "ICAO": "TAO",
+      "Rufzeichen": "TRANS-AEROMAR",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aeroméxico",
+      "IATA": "AM",
+      "ICAO": "AMX",
+      "Rufzeichen": "AEROMEXICO",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aerotours",
+      "IATA": "–",
+      "ICAO": "ATU",
+      "Rufzeichen": "BERLIN SKY",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C/S/T"
+    },
+    {
+      "Name": "Afit",
+      "IATA": "–",
+      "ICAO": "KIE",
+      "Rufzeichen": "TWEETY",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Africa Charter Airline",
+      "IATA": "–",
+      "ICAO": "FSK",
+      "Rufzeichen": "AFRICAN SKY",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "African Express Airways",
+      "IATA": "XU",
+      "ICAO": "AXK",
+      "Rufzeichen": "EXPRESS JET",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Afriqiyah Airways",
+      "IATA": "8U",
+      "ICAO": "AAW",
+      "Rufzeichen": "AFRIQIYAH",
+      "Herkunftsland": "Libyen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Albania",
+      "IATA": "ZB",
+      "ICAO": "ABN",
+      "Rufzeichen": "AIR ALBANIA",
+      "Herkunftsland": "Albanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Algérie",
+      "IATA": "AH",
+      "ICAO": "DAH",
+      "Rufzeichen": "AIR ALGERIE",
+      "Herkunftsland": "Algerien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Alliance Express",
+      "IATA": "–",
+      "ICAO": "AYY",
+      "Rufzeichen": "LUPUS",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C/S"
+    },
+    {
+      "Name": "Air Alsie",
+      "IATA": "6I",
+      "ICAO": "MMD",
+      "Rufzeichen": "MERMAID",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Antilles",
+      "IATA": "3S",
+      "ICAO": "GUY",
+      "Rufzeichen": "GREEN BIRD",
+      "Herkunftsland": "Guadeloupe",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Antwerp",
+      "IATA": "WP",
+      "ICAO": "ATW",
+      "Rufzeichen": "DEVIL",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Arabia",
+      "IATA": "G9",
+      "ICAO": "ABY",
+      "Rufzeichen": "ARABIA",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air Arabia Egypt",
+      "IATA": "E5",
+      "ICAO": "RBG",
+      "Rufzeichen": "AIR ARABIA",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air Arabia Maroc",
+      "IATA": "3O",
+      "ICAO": "MAC",
+      "Rufzeichen": "AIR ARABIA",
+      "Herkunftsland": "Marokko",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "AirAsia",
+      "IATA": "AK",
+      "ICAO": "AXM",
+      "Rufzeichen": "ASIAN EXPRESS",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air Astana",
+      "IATA": "KC",
+      "ICAO": "KZR",
+      "Rufzeichen": "ASTANALINE",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Atlanta Icelandic",
+      "IATA": "CC",
+      "ICAO": "ABD",
+      "Rufzeichen": "ATLANTA",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Atlantique",
+      "IATA": "KI",
+      "ICAO": "AAG",
+      "Rufzeichen": "ATLANTIC",
+      "Herkunftsland": "England",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "S"
+    },
+    {
+      "Name": "Air Austral",
+      "IATA": "UU",
+      "ICAO": "REU",
+      "Rufzeichen": "REUNION",
+      "Herkunftsland": "Réunion",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Baltic",
+      "IATA": "BT",
+      "ICAO": "BTI",
+      "Rufzeichen": "AIRBALTIC",
+      "Herkunftsland": "Lettland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Belgium (2016)",
+      "IATA": "KF",
+      "ICAO": "ABB",
+      "Rufzeichen": "AIR BELGIUM",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "airblue",
+      "IATA": "PA[1]",
+      "ICAO": "ABQ",
+      "Rufzeichen": "PAKBLUE",
+      "Herkunftsland": "Pakistan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Airbus Transport International",
+      "IATA": "4Y",
+      "ICAO": "BGA",
+      "Rufzeichen": "BELOUGA",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Airfast Indonesia",
+      "IATA": "FS",
+      "ICAO": "AFE",
+      "Rufzeichen": "AIRFAST",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Air Botswana",
+      "IATA": "BP",
+      "ICAO": "BOT",
+      "Rufzeichen": "BOTSWANA",
+      "Herkunftsland": "Botswana",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Bucharest",
+      "IATA": "–",
+      "ICAO": "BUR",
+      "Rufzeichen": "AIR BUCHAREST",
+      "Herkunftsland": "Rumänien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Burkina",
+      "IATA": "2J",
+      "ICAO": "VBW",
+      "Rufzeichen": "BURKINA",
+      "Herkunftsland": "Burkina Faso",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Busan",
+      "IATA": "BX",
+      "ICAO": "ABL",
+      "Rufzeichen": "AIR BUSAN",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Cairo",
+      "IATA": "MC",
+      "ICAO": "MSC",
+      "Rufzeichen": "AIR CAIRO",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Calédonie",
+      "IATA": "TY",
+      "ICAO": "TPC",
+      "Rufzeichen": "AIRCAL",
+      "Herkunftsland": "Neukaledonien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Canada",
+      "IATA": "AC",
+      "ICAO": "ACA",
+      "Rufzeichen": "AIR CANADA",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Canada Rouge",
+      "IATA": "RV",
+      "ICAO": "ROU",
+      "Rufzeichen": "ROUGE",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Caraïbes",
+      "IATA": "TX",
+      "ICAO": "FWI",
+      "Rufzeichen": "FRENCH WEST",
+      "Herkunftsland": "Guadeloupe",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Cargo Carriers",
+      "IATA": "2Q",
+      "ICAO": "SNC",
+      "Rufzeichen": "NIGHT CARGO",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Century",
+      "IATA": "Y2",
+      "ICAO": "CEY",
+      "Rufzeichen": "CENTURYFLIGHT",
+      "Herkunftsland": "Dominikanische Republik",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Creebec",
+      "IATA": "YN",
+      "ICAO": "CRQ",
+      "Rufzeichen": "CREE",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Chathams",
+      "IATA": "CV",
+      "ICAO": "CVA",
+      "Rufzeichen": "CHATHAM",
+      "Herkunftsland": "Neuseeland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air China",
+      "IATA": "CA",
+      "ICAO": "CCA",
+      "Rufzeichen": "AIR CHINA",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air China Cargo",
+      "IATA": "CA",
+      "ICAO": "CAO",
+      "Rufzeichen": "AIR CHINA",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Class Líneas Aéreas",
+      "IATA": "QD",
+      "ICAO": "QCL",
+      "Rufzeichen": "ACLA",
+      "Herkunftsland": "Uruguay",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Corsica",
+      "IATA": "XK",
+      "ICAO": "CCM",
+      "Rufzeichen": "CORSICA",
+      "Herkunftsland": "Frankreich, Korsika",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Côte d’Ivoire",
+      "IATA": "HF",
+      "ICAO": "VRE",
+      "Rufzeichen": "COTE D'IVOIRE",
+      "Herkunftsland": "Elfenbeinküste",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Do",
+      "IATA": "HD",
+      "ICAO": "ADO",
+      "Rufzeichen": "AIR DO",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air Dolomiti",
+      "IATA": "EN",
+      "ICAO": "DLA",
+      "Rufzeichen": "DOLOMITI",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Europa",
+      "IATA": "UX",
+      "ICAO": "AEA",
+      "Rufzeichen": "EUROPA",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Europa Express",
+      "IATA": "X5",
+      "ICAO": "OVA",
+      "Rufzeichen": "AERONOVA",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Excel",
+      "IATA": "–",
+      "ICAO": "XLL",
+      "Rufzeichen": "",
+      "Herkunftsland": "Tansania",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AirExplore",
+      "IATA": "ED",
+      "ICAO": "AXE",
+      "Rufzeichen": "GALILEO",
+      "Herkunftsland": "Slowakei",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air France",
+      "IATA": "AF",
+      "ICAO": "AFR",
+      "Rufzeichen": "AIR FRANCE",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air France Hop",
+      "IATA": "A5",
+      "ICAO": "HOP",
+      "Rufzeichen": "AIR HOP",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AirGO Private Airline",
+      "IATA": "–",
+      "ICAO": "XGO",
+      "Rufzeichen": "PASTIS",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Greenland",
+      "IATA": "GL",
+      "ICAO": "GRL",
+      "Rufzeichen": "GREENLANDAIR",
+      "Herkunftsland": "Grönland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Guilin",
+      "IATA": "GT",
+      "ICAO": "CGH",
+      "Rufzeichen": "WELKIN",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Guyane",
+      "IATA": "3S",
+      "ICAO": "GUY",
+      "Rufzeichen": "GREEN BIRD",
+      "Herkunftsland": "Französisch-Guayana",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Hamburg",
+      "IATA": "HH",
+      "ICAO": "AHO",
+      "Rufzeichen": "AIR HAMBURG",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "AirClub",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Air Hong Kong",
+      "IATA": "LD",
+      "ICAO": "AHK",
+      "Rufzeichen": "AIR HONG KONG",
+      "Herkunftsland": "Hongkong",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Incheon",
+      "IATA": "KJ",
+      "ICAO": "AIH",
+      "Rufzeichen": "AIR INCHEON",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Independence",
+      "IATA": "–",
+      "ICAO": "DLY oder JTV",
+      "Rufzeichen": "DAILY",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Air India",
+      "IATA": "AI",
+      "ICAO": "AIC",
+      "Rufzeichen": "AIR INDIA",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air India Express",
+      "IATA": "IX",
+      "ICAO": "AXB",
+      "Rufzeichen": "EXPRESS INDIA",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air India Regional",
+      "IATA": "9I",
+      "ICAO": "LLR",
+      "Rufzeichen": "ALLIED",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Inuit",
+      "IATA": "3H",
+      "ICAO": "AIE",
+      "Rufzeichen": "AIR INUIT",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Japan",
+      "IATA": "NQ",
+      "ICAO": "AJX",
+      "Rufzeichen": "AIR JAPAN",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Kiribati",
+      "IATA": "IK",
+      "ICAO": "AKL",
+      "Rufzeichen": "KIRIBATI",
+      "Herkunftsland": "Kiribati",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Koryo",
+      "IATA": "JS",
+      "ICAO": "KOR",
+      "Rufzeichen": "AIR KORYO",
+      "Herkunftsland": "Nordkorea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Kyrgyzstan",
+      "IATA": "QH",
+      "ICAO": "LYN",
+      "Rufzeichen": "ALTYN AVIA",
+      "Herkunftsland": "Kirgisistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Libya",
+      "IATA": "7Q",
+      "ICAO": "TLR",
+      "Rufzeichen": "AIR LIBYA",
+      "Herkunftsland": "Libyen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Airlink (Österreich)",
+      "IATA": "–",
+      "ICAO": "JAR",
+      "Rufzeichen": "AIRLINK",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Airlink (Südafrika)",
+      "IATA": "4Z",
+      "ICAO": "LNK",
+      "Rufzeichen": "LINK",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Link",
+      "IATA": "DR",
+      "ICAO": "UNK",
+      "Rufzeichen": "UNK",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Macau",
+      "IATA": "NX",
+      "ICAO": "AMU",
+      "Rufzeichen": "AIR MACAU",
+      "Herkunftsland": "Macau",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Air Madagascar",
+      "IATA": "MD",
+      "ICAO": "MDG",
+      "Rufzeichen": "AIR MADAGASCAR",
+      "Herkunftsland": "Madagaskar",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Malta",
+      "IATA": "KM",
+      "ICAO": "AMC",
+      "Rufzeichen": "AIR MALTA",
+      "Herkunftsland": "Malta",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Mandalay",
+      "IATA": "6T",
+      "ICAO": "AMY",
+      "Rufzeichen": "SIX TANGO oder AIR MANDALAY",
+      "Herkunftsland": "Myanmar",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Air Marshall Islands",
+      "IATA": "CW",
+      "ICAO": "MRS",
+      "Rufzeichen": "MARSHALL ISLANDS",
+      "Herkunftsland": "Marshallinseln",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Mauritius",
+      "IATA": "MK",
+      "ICAO": "MAU",
+      "Rufzeichen": "AIRMAURITIUS",
+      "Herkunftsland": "Mauritius",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Mediterranean",
+      "IATA": "MV",
+      "ICAO": "MAR",
+      "Rufzeichen": "HELLASMED",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Moldova",
+      "IATA": "9U",
+      "ICAO": "MLD",
+      "Rufzeichen": "AIR MOLDOVA",
+      "Herkunftsland": "Moldau",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air New Zealand",
+      "IATA": "NZ",
+      "ICAO": "ANZ",
+      "Rufzeichen": "NEW ZEALAND",
+      "Herkunftsland": "Neuseeland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Niugini",
+      "IATA": "PX",
+      "ICAO": "ANG",
+      "Rufzeichen": "NIUGINI",
+      "Herkunftsland": "Papua-Neuguinea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air North",
+      "IATA": "4N",
+      "ICAO": "ANT",
+      "Rufzeichen": "AIR NORTH",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Airnorth",
+      "IATA": "TL",
+      "ICAO": "ANO",
+      "Rufzeichen": "TOPEND",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Nostrum",
+      "IATA": "YW",
+      "ICAO": "ANE",
+      "Rufzeichen": "NOSTRUM AIR",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Panarea",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Philippines",
+      "IATA": "2P",
+      "ICAO": "GAP",
+      "Rufzeichen": "ORIENT PACIFIC",
+      "Herkunftsland": "Philippinen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Rarotonga",
+      "IATA": "GZ",
+      "ICAO": "RAR",
+      "Rufzeichen": "",
+      "Herkunftsland": "Cookinseln",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Saint-Pierre",
+      "IATA": "PJ",
+      "ICAO": "SPM",
+      "Rufzeichen": "SAINT-PIERRE",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Seoul",
+      "IATA": "RS",
+      "ICAO": "ASV",
+      "Rufzeichen": "AIR SEOUL",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Air Serbia",
+      "IATA": "JU",
+      "ICAO": "ASL",
+      "Rufzeichen": "AIR SERBIA",
+      "Herkunftsland": "Serbien",
+      "Luftfahrtallianz": "Etihad Airways Partners",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Seychelles",
+      "IATA": "HM",
+      "ICAO": "SEY",
+      "Rufzeichen": "SEYCHELLES",
+      "Herkunftsland": "Seychellen",
+      "Luftfahrtallianz": "Etihad Airways Partners",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Sunshine",
+      "IATA": "YI",
+      "ICAO": "RSI",
+      "Rufzeichen": "AIR SUNSHINE",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Tahiti",
+      "IATA": "VT",
+      "ICAO": "VTA",
+      "Rufzeichen": "AIR TAHITI",
+      "Herkunftsland": "Französisch-Polynesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Tahiti Nui",
+      "IATA": "TN",
+      "ICAO": "THT",
+      "Rufzeichen": "TAHITI AIRLINES",
+      "Herkunftsland": "Französisch-Polynesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air-taxi europe",
+      "IATA": "TZ",
+      "ICAO": "TWG",
+      "Rufzeichen": "TWIN GOOSE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "R"
+    },
+    {
+      "Name": "Air Transport International",
+      "IATA": "8C",
+      "ICAO": "ATN",
+      "Rufzeichen": "AIR TRANSPORT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Tindi",
+      "IATA": "8T",
+      "ICAO": "TID",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Transat",
+      "IATA": "TS",
+      "ICAO": "TSC",
+      "Rufzeichen": "TRANSAT",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Travel",
+      "IATA": "A6",
+      "ICAO": "HTU",
+      "Rufzeichen": "HONGLAND",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Trust",
+      "IATA": "–",
+      "ICAO": "RTR",
+      "Rufzeichen": "AIR TRUST",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Air Urga",
+      "IATA": "3N",
+      "ICAO": "URG",
+      "Rufzeichen": "URGA",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Vanuatu",
+      "IATA": "NF",
+      "ICAO": "AVN",
+      "Rufzeichen": "AIR VAN",
+      "Herkunftsland": "Vanuatu",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air West (Sudan)",
+      "IATA": "–",
+      "ICAO": "AWZ",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Sudan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Air Wisconsin",
+      "IATA": "ZW",
+      "ICAO": "AWI",
+      "Rufzeichen": "AIR WISCONSIN",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Air Zimbabwe",
+      "IATA": "UM",
+      "ICAO": "AZW",
+      "Rufzeichen": "AIR ZIMBABWE",
+      "Herkunftsland": "Simbabwe",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AirAsia X",
+      "IATA": "D7",
+      "ICAO": "XAX",
+      "Rufzeichen": "XANADU",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "AirBridgeCargo",
+      "IATA": "RU",
+      "ICAO": "ABW",
+      "Rufzeichen": "AIRBRIDGE CARGO",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "Volga-Dnepr Group",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Aircalin",
+      "IATA": "SB",
+      "ICAO": "ACI",
+      "Rufzeichen": "AIRCALIN",
+      "Herkunftsland": "Neukaledonien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AirKenya Express",
+      "IATA": "QP",
+      "ICAO": "XAK",
+      "Rufzeichen": "AIRKENYA",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Airlines of Tasmania",
+      "IATA": "FO",
+      "ICAO": "ATM",
+      "Rufzeichen": "AIRTAS",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Airwork",
+      "IATA": "HT",
+      "ICAO": "PST",
+      "Rufzeichen": "POST",
+      "Herkunftsland": "Neuseeland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "AIS Airlines",
+      "IATA": "IS",
+      "ICAO": "PNX",
+      "Rufzeichen": "SPINNER",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aklak Air",
+      "IATA": "6L",
+      "ICAO": "AKK",
+      "Rufzeichen": "AKLAK",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Alaska Airlines",
+      "IATA": "AS",
+      "ICAO": "ASA",
+      "Rufzeichen": "ALASKA",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Alaska Central Express",
+      "IATA": "KO",
+      "ICAO": "AER",
+      "Rufzeichen": "ACE AIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Albawings",
+      "IATA": "2B",
+      "ICAO": "AWT",
+      "Rufzeichen": "ALBAWINGS",
+      "Herkunftsland": "Albanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Alexandria Airlines",
+      "IATA": "XH oder DQ",
+      "ICAO": "KHH",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Alidaunia",
+      "IATA": "D4",
+      "ICAO": "LID",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Alk Airlines",
+      "IATA": "–",
+      "ICAO": "VBB",
+      "Rufzeichen": "AIR LUBO",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Allegiant Air",
+      "IATA": "G4",
+      "ICAO": "AAY",
+      "Rufzeichen": "ALLEGIANT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Alliance Airlines",
+      "IATA": "QQ",
+      "ICAO": "UTY",
+      "Rufzeichen": "UNITY",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "ANA All Nippon Airways",
+      "IATA": "NH",
+      "ICAO": "ANA",
+      "Rufzeichen": "ALL NIPPON",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AlMasria Universal Airlines",
+      "IATA": "UJ",
+      "ICAO": "LMU",
+      "Rufzeichen": "ALMASRIA",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aloha Air Cargo",
+      "IATA": "KH",
+      "ICAO": "AAH",
+      "Rufzeichen": "ALOHA",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Alpine Air Express",
+      "IATA": "5A",
+      "ICAO": "AIP",
+      "Rufzeichen": "ALPINE AIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Alpine Flight Service",
+      "IATA": "–",
+      "ICAO": "IGA",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Alrosa Airlines",
+      "IATA": "6R",
+      "ICAO": "DRU",
+      "Rufzeichen": "MIRNY",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Alsie Express",
+      "IATA": "6I",
+      "ICAO": "MMD",
+      "Rufzeichen": "MERMAID",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Amapola Flyg",
+      "IATA": "HP",
+      "ICAO": "APF",
+      "Rufzeichen": "AMAPOLA",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Amas Bolivia",
+      "IATA": "Z8",
+      "ICAO": "AZN",
+      "Rufzeichen": "AMAZONAS",
+      "Herkunftsland": "Bolivien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "AMC Airlines",
+      "IATA": "YJ",
+      "ICAO": "AMV",
+      "Rufzeichen": "AMC AIRLINES",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "American Airlines",
+      "IATA": "AA",
+      "ICAO": "AAL",
+      "Rufzeichen": "AMERICAN",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "American Eagle",
+      "IATA": "MQ",
+      "ICAO": "EGF",
+      "Rufzeichen": "EAGLE FLIGHT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ameriflight",
+      "IATA": "1Y",
+      "ICAO": "AMF",
+      "Rufzeichen": "AMFLIGHT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Amerijet International",
+      "IATA": "M6",
+      "ICAO": "AJT",
+      "Rufzeichen": "AMERIJET",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Ameristar Jet Charter",
+      "IATA": "7Z",
+      "ICAO": "AJI",
+      "Rufzeichen": "AMERISTAR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Anadolujet",
+      "IATA": "KT",
+      "ICAO": "AJA",
+      "Rufzeichen": "ANADOLUJET",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Andes Líneas Aéreas",
+      "IATA": "OY",
+      "ICAO": "ANS",
+      "Rufzeichen": "AEROANDES",
+      "Herkunftsland": "Argentinien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Angara Airlines",
+      "IATA": "2G",
+      "ICAO": "AGU",
+      "Rufzeichen": "SARMA",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P, S, SAR"
+    },
+    {
+      "Name": "Angola Air Charter",
+      "IATA": "C3",
+      "ICAO": "AGO",
+      "Rufzeichen": "ANGOLA CHARTER",
+      "Herkunftsland": "Angola",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Antonov Airlines",
+      "IATA": "–",
+      "ICAO": "ADB",
+      "Rufzeichen": "ANTONOV BUREAU",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Arab Wings",
+      "IATA": "SI",
+      "ICAO": "AWS",
+      "Rufzeichen": "ARAB WINGS",
+      "Herkunftsland": "Jordanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Arcus-Air",
+      "IATA": "ZE",
+      "ICAO": "AZE",
+      "Rufzeichen": "ARCUS AIR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Aria Air",
+      "IATA": "–",
+      "ICAO": "IRX",
+      "Rufzeichen": "ARIA",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ariana Afghan Airlines",
+      "IATA": "FG",
+      "ICAO": "AFG",
+      "Rufzeichen": "ARIANA",
+      "Herkunftsland": "Afghanistan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Arik Air Limited",
+      "IATA": "W3",
+      "ICAO": "ARA",
+      "Rufzeichen": "ARIK AIR",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Arkia Israeli Airlines",
+      "IATA": "IZ",
+      "ICAO": "AIZ",
+      "Rufzeichen": "ARKIA",
+      "Herkunftsland": "Israel",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Asiana Airlines",
+      "IATA": "OZ",
+      "ICAO": "AAR",
+      "Rufzeichen": "ASIANA",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Askari Aviation Services",
+      "IATA": "4K",
+      "ICAO": "AAS",
+      "Rufzeichen": "AL-AAS",
+      "Herkunftsland": "Pakistan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Asky Airlines",
+      "IATA": "KP",
+      "ICAO": "SKK",
+      "Rufzeichen": "ASKY",
+      "Herkunftsland": "Togo",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "ASL Airlines Belgium",
+      "IATA": "3V",
+      "ICAO": "TAY",
+      "Rufzeichen": "QUALITY",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "ASL Airlines France",
+      "IATA": "5O",
+      "ICAO": "FPO",
+      "Rufzeichen": "FRENCH POST",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "ASL Airlines Hungary",
+      "IATA": "–",
+      "ICAO": "FAH",
+      "Rufzeichen": "BLUE STRIP",
+      "Herkunftsland": "Ungarn",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "ASL Airlines Ireland",
+      "IATA": "AG",
+      "ICAO": "ABR",
+      "Rufzeichen": "CONTRACT",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "ASTA Linhas Aéreas",
+      "IATA": "0A",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Astral Aviation",
+      "IATA": "8V",
+      "ICAO": "ACP",
+      "Rufzeichen": "ASTRAL CARGO",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Atlantic Airways",
+      "IATA": "RC",
+      "ICAO": "FLI",
+      "Rufzeichen": "FAROELINE",
+      "Herkunftsland": "Färöer",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Atlas Air",
+      "IATA": "5Y",
+      "ICAO": "GTI",
+      "Rufzeichen": "GIANT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Atlas Air Service",
+      "IATA": "–",
+      "ICAO": "ATL",
+      "Rufzeichen": "AIR BREMEN",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Air Sinai",
+      "IATA": "4D",
+      "ICAO": "ASD",
+      "Rufzeichen": "AIR SINAI",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "ATRAN",
+      "IATA": "V8",
+      "ICAO": "VAS",
+      "Rufzeichen": "ATRAN",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "Volga-Dnepr Group",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Aurigny Air Services",
+      "IATA": "GR",
+      "ICAO": "AUR",
+      "Rufzeichen": "AYLINE",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Aurora Airlines",
+      "IATA": "HZ",
+      "ICAO": "SHU",
+      "Rufzeichen": "AURORA",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Austrian Airlines",
+      "IATA": "OS",
+      "ICAO": "AUA",
+      "Rufzeichen": "AUSTRIAN",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Avanti Air",
+      "IATA": "AX",
+      "ICAO": "ATV",
+      "Rufzeichen": "AVANTI AIR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Avelo Airlines",
+      "IATA": "XP",
+      "ICAO": "VXP",
+      "Rufzeichen": "AVELLO",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Avianca",
+      "IATA": "AV",
+      "ICAO": "AVA",
+      "Rufzeichen": "AVIANCA",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Avianca Cargo",
+      "IATA": "QT",
+      "ICAO": "TPA",
+      "Rufzeichen": "TAMPA",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Avianca Ecuador",
+      "IATA": "2K",
+      "ICAO": "GLG",
+      "Rufzeichen": "AVIANCA ECUADOR",
+      "Herkunftsland": "Ecuador",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Aviastar Mandiri",
+      "IATA": "MV",
+      "ICAO": "VIT",
+      "Rufzeichen": "AVIASTAR",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Avion Express",
+      "IATA": "X9",
+      "ICAO": "NVD",
+      "Rufzeichen": "NORDVIND",
+      "Herkunftsland": "Litauen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Avior Airlines",
+      "IATA": "9V",
+      "ICAO": "ROI",
+      "Rufzeichen": "AVIOR",
+      "Herkunftsland": "Venezuela",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Azerbaijan Airlines",
+      "IATA": "J2",
+      "ICAO": "AHY",
+      "Rufzeichen": "AZAL",
+      "Herkunftsland": "Aserbaidschan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Azores Airlines",
+      "IATA": "S4",
+      "ICAO": "RZO",
+      "Rufzeichen": "AIR AZORES",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Azul Linhas Aéreas",
+      "IATA": "AD",
+      "ICAO": "AZU",
+      "Rufzeichen": "AZUL",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Azman Air",
+      "IATA": "–",
+      "ICAO": "AZM",
+      "Rufzeichen": "AZMAN AIR",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "BA CityFlyer",
+      "IATA": "CJ",
+      "ICAO": "CFE",
+      "Rufzeichen": "FLYER",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Badr Airlines",
+      "IATA": "J4",
+      "ICAO": "BDR",
+      "Rufzeichen": "BADR AIR",
+      "Herkunftsland": "Sudan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bahamasair",
+      "IATA": "UP",
+      "ICAO": "BHS",
+      "Rufzeichen": "BAHAMAS",
+      "Herkunftsland": "Bahamas",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Baltic Seaplane",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bangkok Airways",
+      "IATA": "PG",
+      "ICAO": "BKP",
+      "Rufzeichen": "BANGKOK AIR",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bearskin Airlines",
+      "IATA": "JV",
+      "ICAO": "BLS",
+      "Rufzeichen": "BEARSKIN",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Beijing Capital Airlines",
+      "IATA": "JD",
+      "ICAO": "CBJ",
+      "Rufzeichen": "CAPITAL JET",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Bek Air",
+      "IATA": "Z9",
+      "ICAO": "BEK",
+      "Rufzeichen": "BEKAIR",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Belavia Belarusian Airlines",
+      "IATA": "B2",
+      "ICAO": "BRU",
+      "Rufzeichen": "BELAVIA",
+      "Herkunftsland": "Belarus",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bemidji Airlines",
+      "IATA": "CH",
+      "ICAO": "BMJ",
+      "Rufzeichen": "BEMIDJI",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Berjaya Air",
+      "IATA": "J8",
+      "ICAO": "BVT",
+      "Rufzeichen": "BERJAYA AIR",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "BH Air",
+      "IATA": "8H",
+      "ICAO": "BGH",
+      "Rufzeichen": "BALKAN HOLIDAYS",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "BHS Aviation",
+      "IATA": "–",
+      "ICAO": "DCS",
+      "Rufzeichen": "TWIN STAR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P Business-Helikopter (Kooperation DC Aviation)"
+    },
+    {
+      "Name": "Biman Bangladesh Airlines",
+      "IATA": "BG",
+      "ICAO": "BBC",
+      "Rufzeichen": "BANGLADESH",
+      "Herkunftsland": "Bangladesch",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bin Air",
+      "IATA": "–",
+      "ICAO": "BID",
+      "Rufzeichen": "BINAIR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Binter Canarias",
+      "IATA": "NT",
+      "ICAO": "IBB",
+      "Rufzeichen": "BINTER",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bishwo Airways",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Nepal",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Blue Air",
+      "IATA": "0B",
+      "ICAO": "JOR",
+      "Rufzeichen": "BLUE TRANSPORT",
+      "Herkunftsland": "Rumänien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Blue Dart Aviation",
+      "IATA": "BZ",
+      "ICAO": "BDA",
+      "Rufzeichen": "BLUE DART",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Blue Islands",
+      "IATA": "AX",
+      "ICAO": "BCI",
+      "Rufzeichen": "BLUE ISLANDS",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Blue Panorama Airlines",
+      "IATA": "BV",
+      "ICAO": "BPA",
+      "Rufzeichen": "BLUE PANORAMA",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B/C"
+    },
+    {
+      "Name": "Blue Sky Aviation (Kenia)",
+      "IATA": "–",
+      "ICAO": "SBK",
+      "Rufzeichen": "MAWINGU",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Blue Wing Airlines",
+      "IATA": "–",
+      "ICAO": "BWI",
+      "Rufzeichen": "BLUE TAIL",
+      "Herkunftsland": "Suriname",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Bluebird Aviation (Kenia)",
+      "IATA": "–",
+      "ICAO": "BBZ",
+      "Rufzeichen": "COBRA",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Bluebird Nordic",
+      "IATA": "BF",
+      "ICAO": "BBD",
+      "Rufzeichen": "BLUE CARGO",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "BMW Flugdienst",
+      "IATA": "–",
+      "ICAO": "BMW",
+      "Rufzeichen": "BMW-FLIGHT",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "Werksflugverkehr"
+    },
+    {
+      "Name": "Boliviana de Aviación",
+      "IATA": "OB",
+      "ICAO": "BOV",
+      "Rufzeichen": "BOLIVIANA",
+      "Herkunftsland": "Bolivien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Braathens Regional Airways",
+      "IATA": "DC",
+      "ICAO": "BRX",
+      "Rufzeichen": "BRAATHENS",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Braathens Regional Aviation",
+      "IATA": "TF",
+      "ICAO": "SCW",
+      "Rufzeichen": "SCANWING",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "British Airways",
+      "IATA": "BA",
+      "ICAO": "BAW",
+      "Rufzeichen": "SPEEDBIRD",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Brussels Airlines",
+      "IATA": "SN",
+      "ICAO": "BEL",
+      "Rufzeichen": "BEE-LINE",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Buddha Air",
+      "IATA": "U4",
+      "ICAO": "BHA",
+      "Rufzeichen": "BUDDHA AIR",
+      "Herkunftsland": "Nepal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Buffalo Airways",
+      "IATA": "J4",
+      "ICAO": "BFL",
+      "Rufzeichen": "BUFFALO",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Bul Air",
+      "IATA": "LB",
+      "ICAO": "BVL",
+      "Rufzeichen": "BULGARY",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Bulgaria Air",
+      "IATA": "FB",
+      "ICAO": "LZB",
+      "Rufzeichen": "FLYING BULGARIA",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Bulgarian Air Charter",
+      "IATA": "1T",
+      "ICAO": "BUC",
+      "Rufzeichen": "BULGARIAN CHARTER",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Bukovyna Airlines",
+      "IATA": "BQ",
+      "ICAO": "BKV",
+      "Rufzeichen": "BUKOVYNA",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Businesswings",
+      "IATA": "–",
+      "ICAO": "JMP",
+      "Rufzeichen": "JUMP RUN",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Cabo Verde Airlines",
+      "IATA": "VR",
+      "ICAO": "TCV",
+      "Rufzeichen": "CABO VERDE",
+      "Herkunftsland": "Kap Verde",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "CAL Cargo Airlines",
+      "IATA": "5C",
+      "ICAO": "ICL",
+      "Rufzeichen": "CAL",
+      "Herkunftsland": "Israel",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Calm Air",
+      "IATA": "MO",
+      "ICAO": "CAV",
+      "Rufzeichen": "CALM AIR",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Camair-Co",
+      "IATA": "QC",
+      "ICAO": "CRD",
+      "Rufzeichen": "CAM AIR",
+      "Herkunftsland": "Kamerun",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cambodia Airways",
+      "IATA": "KR",
+      "ICAO": "KME",
+      "Rufzeichen": "GIGANT IBIS",
+      "Herkunftsland": "Kambodscha",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cambodia Bayon Airlines",
+      "IATA": "BD",
+      "ICAO": "BYC",
+      "Rufzeichen": "BAYON AIR",
+      "Herkunftsland": "Kambodscha",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Canadian North",
+      "IATA": "5T",
+      "ICAO": "ANX",
+      "Rufzeichen": "NORTERRA",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Canarias Airlines",
+      "IATA": "–",
+      "ICAO": "RSC",
+      "Rufzeichen": "CANAIR",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Canary Fly",
+      "IATA": "PM",
+      "ICAO": "CNF",
+      "Rufzeichen": "CANARY FLY",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cape Air",
+      "IATA": "9K",
+      "ICAO": "KAP",
+      "Rufzeichen": "CAIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cardig Air",
+      "IATA": "8F",
+      "ICAO": "CAD",
+      "Rufzeichen": "CARDIG AIR",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Cargo Air",
+      "IATA": "–",
+      "ICAO": "CGF",
+      "Rufzeichen": "CLEVER",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "CargoLogic Germany",
+      "IATA": "–",
+      "ICAO": "CLG",
+      "Rufzeichen": "SAXONIA",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "Volga-Dnepr-Gruppe",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Cargolux",
+      "IATA": "CV",
+      "ICAO": "CLX",
+      "Rufzeichen": "CARGOLUX",
+      "Herkunftsland": "Luxemburg",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Cargolux Italia",
+      "IATA": "C8",
+      "ICAO": "ICV",
+      "Rufzeichen": "CARGOLUX ITALIA",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Caribbean Airlines",
+      "IATA": "BW",
+      "ICAO": "BWA",
+      "Rufzeichen": "CARIBBEAN AIRLINES",
+      "Herkunftsland": "Trinidad und Tobago",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Carpatair",
+      "IATA": "V3",
+      "ICAO": "KRP",
+      "Rufzeichen": "CARPATAIR",
+      "Herkunftsland": "Rumänien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Caspian Airlines",
+      "IATA": "RV",
+      "ICAO": "CPN",
+      "Rufzeichen": "CASPIAN",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cat Aviation",
+      "IATA": "–",
+      "ICAO": "CAZ",
+      "Rufzeichen": "EUROCAT",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Cathay Pacific",
+      "IATA": "CX",
+      "ICAO": "CPA",
+      "Rufzeichen": "CATHAY",
+      "Herkunftsland": "Hongkong",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Cathelicopters",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cavok Airlines",
+      "IATA": "–",
+      "ICAO": "CVK",
+      "Rufzeichen": "CARGOLINE",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Cayman Airways",
+      "IATA": "KX",
+      "ICAO": "CAY",
+      "Rufzeichen": "CAYMAN",
+      "Herkunftsland": "Cayman Islands",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "CCF Manager Airline",
+      "IATA": "–",
+      "ICAO": "CCF",
+      "Rufzeichen": "TOMCAT",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Cebgo",
+      "IATA": "DG",
+      "ICAO": "SRQ",
+      "Rufzeichen": "SEAIR",
+      "Herkunftsland": "Philippinen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cebu Pacific",
+      "IATA": "5J",
+      "ICAO": "CEB",
+      "Rufzeichen": "CEBU AIR",
+      "Herkunftsland": "Philippinen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "CEIBA Intercontinental",
+      "IATA": "G2",
+      "ICAO": "CBA",
+      "Rufzeichen": "CEIBA LINE",
+      "Herkunftsland": "Äquatorialguinea",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Central Mongolia Airways",
+      "IATA": "–",
+      "ICAO": "CEM",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Mongolei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C (nur Hubschrauber)"
+    },
+    {
+      "Name": "Central Mountain Air",
+      "IATA": "9M",
+      "ICAO": "GLR",
+      "Rufzeichen": "GLACIER",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Chair Airlines",
+      "IATA": "GM",
+      "ICAO": "GSW",
+      "Rufzeichen": "EIGER",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Chengdu Airlines",
+      "IATA": "EU",
+      "ICAO": "UEA",
+      "Rufzeichen": "JINGXIU",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "China Airlines",
+      "IATA": "CI",
+      "ICAO": "CAL",
+      "Rufzeichen": "DYNASTY",
+      "Herkunftsland": "Taiwan",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "China Eastern Airlines",
+      "IATA": "MU",
+      "ICAO": "CES",
+      "Rufzeichen": "CHINA EASTERN",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "China Express Airlines",
+      "IATA": "G5",
+      "ICAO": "HXA",
+      "Rufzeichen": "CHINA EXPRESS",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "China Southern Airlines",
+      "IATA": "CZ",
+      "ICAO": "CSN",
+      "Rufzeichen": "CHINA SOUTHERN",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Citilink",
+      "IATA": "QG",
+      "ICAO": "CTV",
+      "Rufzeichen": "SUPERGREEN",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "CityJet",
+      "IATA": "WX",
+      "ICAO": "BCY",
+      "Rufzeichen": "CITY-IRELAND",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Clipper Aviation",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "S"
+    },
+    {
+      "Name": "Cobham",
+      "IATA": "NC",
+      "ICAO": "NJS",
+      "Rufzeichen": "NATIONAL JETEX",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+/R"
+    },
+    {
+      "Name": "CommutAir",
+      "IATA": "C5",
+      "ICAO": "UCA",
+      "Rufzeichen": "COMMUTAIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Condor Flugdienst",
+      "IATA": "DE",
+      "ICAO": "CFG",
+      "Rufzeichen": "CONDOR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Conviasa",
+      "IATA": "V0",
+      "ICAO": "VCV",
+      "Rufzeichen": "CONVIASA",
+      "Herkunftsland": "Venezuela",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Copa Airlines",
+      "IATA": "CM",
+      "ICAO": "CMP",
+      "Rufzeichen": "COPA",
+      "Herkunftsland": "Panama",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Copa Airlines Colombia",
+      "IATA": "P5",
+      "ICAO": "RBP",
+      "Rufzeichen": "AEROREPUBLICA",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Copenhagen Air Taxi",
+      "IATA": "–",
+      "ICAO": "CAT",
+      "Rufzeichen": "AIRCAT",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Corendon Airlines",
+      "IATA": "XC",
+      "ICAO": "CAI",
+      "Rufzeichen": "CORENDON",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Corendon Dutch Airlines",
+      "IATA": "CD",
+      "ICAO": "CND",
+      "Rufzeichen": "DUTCH CORENDON",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Corsair International",
+      "IATA": "SS",
+      "ICAO": "CRL",
+      "Rufzeichen": "CORSAIR",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Costa Airlines",
+      "IATA": "",
+      "ICAO": "COT",
+      "Rufzeichen": "COAIR",
+      "Herkunftsland": "Venezuela",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Croatia Airlines",
+      "IATA": "OU",
+      "ICAO": "CTN",
+      "Rufzeichen": "CROATIA",
+      "Herkunftsland": "Kroatien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "CSA Czech Airlines",
+      "IATA": "OK",
+      "ICAO": "CSA",
+      "Rufzeichen": "CSA LINES",
+      "Herkunftsland": "Tschechien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Cubana",
+      "IATA": "CU",
+      "ICAO": "CUB",
+      "Rufzeichen": "CUBANA",
+      "Herkunftsland": "Kuba",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Daallo Airlines",
+      "IATA": "D3",
+      "ICAO": "DAO",
+      "Rufzeichen": "DALO AIRLINES",
+      "Herkunftsland": "Somalia Dschibuti",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Dalian Airlines",
+      "IATA": "CA",
+      "ICAO": "CCD",
+      "Rufzeichen": "XIANGJIAN",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Danish Air Transport",
+      "IATA": "DX",
+      "ICAO": "DTR",
+      "Rufzeichen": "DANISH",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "DC Aviation",
+      "IATA": "–",
+      "ICAO": "DCS",
+      "Rufzeichen": "TWIN STAR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Delta Air Lines",
+      "IATA": "DL",
+      "ICAO": "DAL",
+      "Rufzeichen": "DELTA",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Dexter Air Taxi",
+      "IATA": "",
+      "ICAO": "DXT",
+      "Rufzeichen": "DEXTER",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "DHL Aero Expreso",
+      "IATA": "D5",
+      "ICAO": "DAE",
+      "Rufzeichen": "YELLOW",
+      "Herkunftsland": "Panama",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "DHL Air UK",
+      "IATA": "D0",
+      "ICAO": "DHK",
+      "Rufzeichen": "WORLD EXPRESS",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "DHL Aviation",
+      "IATA": "BC",
+      "ICAO": "DHL",
+      "Rufzeichen": "DAHL",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "DHL International Aviation ME",
+      "IATA": "ES",
+      "ICAO": "DHX",
+      "Rufzeichen": "DILMUN",
+      "Herkunftsland": "Bahrain",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "DRF Luftrettung",
+      "IATA": "1I",
+      "ICAO": "AMB",
+      "Rufzeichen": "CIVIL AIR AMBULANCE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "S"
+    },
+    {
+      "Name": "Donghai Airlines",
+      "IATA": "DZ",
+      "ICAO": "EPA",
+      "Rufzeichen": "DONGHAI AIR",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "DOT LT",
+      "IATA": "R6",
+      "ICAO": "DNU",
+      "Rufzeichen": "DANU",
+      "Herkunftsland": "Litauen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Drukair",
+      "IATA": "KB",
+      "ICAO": "DRK",
+      "Rufzeichen": "ROYAL BHUTAN",
+      "Herkunftsland": "Bhutan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Eagle Air (Island)",
+      "IATA": "–",
+      "ICAO": "FEI",
+      "Rufzeichen": "ARCTIC EAGLE",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Eagle Air (Uganda)",
+      "IATA": "H7",
+      "ICAO": "EGU",
+      "Rufzeichen": "AFRICAN EAGLE",
+      "Herkunftsland": "Uganda",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Eastar Jet",
+      "IATA": "ZE",
+      "ICAO": "ESR",
+      "Rufzeichen": "EASTARJET",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "U-FLY Alliance",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Eastern Airways",
+      "IATA": "T3",
+      "ICAO": "EZE",
+      "Rufzeichen": "EASTFLIGHT",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Eastern Australia Airlines",
+      "IATA": "QF",
+      "ICAO": "EAQ",
+      "Rufzeichen": "EASTERN",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "East Wing",
+      "IATA": "",
+      "ICAO": "EWZ",
+      "Rufzeichen": "",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C/R/S"
+    },
+    {
+      "Name": "EasyJet Europe",
+      "IATA": "U2",
+      "ICAO": "EZY",
+      "Rufzeichen": "ALPINE",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "EasyJet Switzerland",
+      "IATA": "DS",
+      "ICAO": "EZS",
+      "Rufzeichen": "TOPSWISS",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "EasyJet",
+      "IATA": "U2",
+      "ICAO": "EZY",
+      "Rufzeichen": "EASY",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Edelweiss Air",
+      "IATA": "WK",
+      "ICAO": "EDW",
+      "Rufzeichen": "EDELWEISS",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "EFD Eisele Flugdienst",
+      "IATA": "–",
+      "ICAO": "EFD",
+      "Rufzeichen": "EVERFLIGHT",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Egypt Air",
+      "IATA": "MS",
+      "ICAO": "MSR",
+      "Rufzeichen": "EGYPTAIR",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "El Al",
+      "IATA": "LY",
+      "ICAO": "ELY",
+      "Rufzeichen": "EL AL",
+      "Herkunftsland": "Israel",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Ellinair",
+      "IATA": "EL",
+      "ICAO": "ELB",
+      "Rufzeichen": "ELLINAIR HELLAS",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Emirates",
+      "IATA": "EK",
+      "ICAO": "UAE",
+      "Rufzeichen": "EMIRATES",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Endeavor Air",
+      "IATA": "9E",
+      "ICAO": "FLG",
+      "Rufzeichen": "FLAGSHIP",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Era Alaska",
+      "IATA": "7H",
+      "ICAO": "ERR",
+      "Rufzeichen": "ERAH",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Eritrean Airlines",
+      "IATA": "B8",
+      "ICAO": "ERT",
+      "Rufzeichen": "ERITREAN",
+      "Herkunftsland": "Eritrea",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Eswatini Airlink",
+      "IATA": "4Z",
+      "ICAO": "SZL",
+      "Rufzeichen": "SWAZILINK",
+      "Herkunftsland": "Eswatini",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ethiopian Airlines",
+      "IATA": "ET",
+      "ICAO": "ETH",
+      "Rufzeichen": "ETHIOPIAN",
+      "Herkunftsland": "Äthiopien",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Etihad Airways",
+      "IATA": "EY",
+      "ICAO": "ETD",
+      "Rufzeichen": "ETIHAD",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "Etihad Airways Partners",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Euro-Asia Air",
+      "IATA": "6Z",
+      "ICAO": "EAK",
+      "Rufzeichen": "EAKAZ",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "EuroAtlantic Airways",
+      "IATA": "MM",
+      "ICAO": "MMZ",
+      "Rufzeichen": "EUROATLANTIC",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "European Air Transport Leipzig",
+      "IATA": "QY",
+      "ICAO": "BCS",
+      "Rufzeichen": "EUROTRANS",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Eurowings",
+      "IATA": "EW",
+      "ICAO": "EWG",
+      "Rufzeichen": "EUROWINGS",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "EVA Air",
+      "IATA": "BR",
+      "ICAO": "EVA",
+      "Rufzeichen": "EVA",
+      "Herkunftsland": "Taiwan",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Evelop Airlines",
+      "IATA": "E9",
+      "ICAO": "EVE",
+      "Rufzeichen": "EVELOP",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Everts Air",
+      "IATA": "3Z",
+      "ICAO": "VTS",
+      "Rufzeichen": "EVERTS",
+      "Herkunftsland": "USA, Alaska",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "ExpressJet Airlines",
+      "IATA": "XE",
+      "ICAO": "BTA",
+      "Rufzeichen": "JET LINK",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Eznis Airways",
+      "IATA": "–",
+      "ICAO": "EZA",
+      "Rufzeichen": "EZA",
+      "Herkunftsland": "Mongolei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "FAI rent-a-jet",
+      "IATA": "F3",
+      "ICAO": "IFA",
+      "Rufzeichen": "RED ANGEL",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+ (auch Ambulanzflüge)"
+    },
+    {
+      "Name": "Federal Air",
+      "IATA": "–",
+      "ICAO": "FDR",
+      "Rufzeichen": "FEDAIR",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "FedEx",
+      "IATA": "FX",
+      "ICAO": "FDX",
+      "Rufzeichen": "FEDEX",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Fiji Airways",
+      "IATA": "FJ",
+      "ICAO": "FJI",
+      "Rufzeichen": "PACIFIC",
+      "Herkunftsland": "Fidschi",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Finnair",
+      "IATA": "AY",
+      "ICAO": "FIN",
+      "Rufzeichen": "FINNAIR",
+      "Herkunftsland": "Finnland",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Firefly",
+      "IATA": "FY",
+      "ICAO": "FMM",
+      "Rufzeichen": "FIREFLY",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "First Air",
+      "IATA": "7F",
+      "ICAO": "FAB",
+      "Rufzeichen": "FIRST AIR",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Flamingo Air",
+      "IATA": "–",
+      "ICAO": "FMR",
+      "Rufzeichen": "FLAMINGO AIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Fleet Air International",
+      "IATA": "–",
+      "ICAO": "FRF",
+      "Rufzeichen": "FAIRFLEET",
+      "Herkunftsland": "Ungarn",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Flexflight",
+      "IATA": "W2",
+      "ICAO": "TIX",
+      "Rufzeichen": "MATRIX",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "FLN Frisia-Luftverkehr",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Fly540",
+      "IATA": "5H",
+      "ICAO": "FFV",
+      "Rufzeichen": "SWIFT TANGO",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Fly All Ways",
+      "IATA": "–",
+      "ICAO": "FAW",
+      "Rufzeichen": "Fly All Ways",
+      "Herkunftsland": "Suriname",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Fly Arystan",
+      "IATA": "KC",
+      "ICAO": "KZR",
+      "Rufzeichen": "",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Fly Baghdad Airlines",
+      "IATA": "IF",
+      "ICAO": "FBA",
+      "Rufzeichen": "IRAQ EXPRESS",
+      "Herkunftsland": "Irak",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "FlyBosnia",
+      "IATA": "6W",
+      "ICAO": "FBS",
+      "Rufzeichen": "BOSNIA AIR",
+      "Herkunftsland": "Bosnien und Herzegowina",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Flydubai",
+      "IATA": "FZ",
+      "ICAO": "FDB",
+      "Rufzeichen": "SKYDUBAI",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Fly Egypt",
+      "IATA": "FT",
+      "ICAO": "FEG",
+      "Rufzeichen": "SKY EGYPT",
+      "Herkunftsland": "Ägypten",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "FlyMontserrat",
+      "IATA": "5M",
+      "ICAO": "",
+      "Rufzeichen": "MONTSERRAT",
+      "Herkunftsland": "Montserrat",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Flynas",
+      "IATA": "XY",
+      "ICAO": "KNE",
+      "Rufzeichen": "NAS EXPRESS",
+      "Herkunftsland": "Saudi-Arabien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Fly Tyrol",
+      "IATA": "–",
+      "ICAO": "FTY",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Freebird Airlines",
+      "IATA": "FH",
+      "ICAO": "FHY",
+      "Rufzeichen": "FREE BIRD",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "French Bee",
+      "IATA": "BF",
+      "ICAO": "FBU",
+      "Rufzeichen": "FRENCH BEE",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Frontier Airlines",
+      "IATA": "F9",
+      "ICAO": "FFT",
+      "Rufzeichen": "FRONTIER oder FRONTIER FLIGHT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Fuji Dream Airlines",
+      "IATA": "JH",
+      "ICAO": "FDA",
+      "Rufzeichen": "FUJI DREAM",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Garuda Indonesia",
+      "IATA": "GA",
+      "ICAO": "GIA",
+      "Rufzeichen": "INDONESIA",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Georgian Airways",
+      "IATA": "A9",
+      "ICAO": "TGZ",
+      "Rufzeichen": "TAMASI",
+      "Herkunftsland": "Georgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "German Airways",
+      "IATA": "WH",
+      "ICAO": "GER",
+      "Rufzeichen": "GERMAN EAGLE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "GetJet Airlines",
+      "IATA": "GW",
+      "ICAO": "GJT",
+      "Rufzeichen": "GETJET",
+      "Herkunftsland": "Litauen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "GFD Gesellschaft für Flugzieldarstellung",
+      "IATA": "–",
+      "ICAO": "GFD",
+      "Rufzeichen": "KITE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "Übungsflüge"
+    },
+    {
+      "Name": "Global Africa Aviation",
+      "IATA": "–",
+      "ICAO": "GAA",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Simbabwe",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "GlobeAir",
+      "IATA": "–",
+      "ICAO": "GAC",
+      "Rufzeichen": "DREAMTEAM",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "AirClub",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "GoAir",
+      "IATA": "G8",
+      "ICAO": "GOW",
+      "Rufzeichen": "GO AIR",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "GoJet Airlines",
+      "IATA": "G7",
+      "ICAO": "GJS",
+      "Rufzeichen": "LINDBERGH",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Gol Linhas Aéreas",
+      "IATA": "G3",
+      "ICAO": "GLO",
+      "Rufzeichen": "GOL TRANSPORTE",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Grand China Air",
+      "IATA": "CN",
+      "ICAO": "GDC",
+      "Rufzeichen": "GRAND CHINA",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Xinxing",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Grand Cru Airlines",
+      "IATA": "–",
+      "ICAO": "GCA",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Litauen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Great Dane Airlines",
+      "IATA": "DW",
+      "ICAO": "GDE",
+      "Rufzeichen": "GREAT DANE",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Grossmann Jet Service",
+      "IATA": "–",
+      "ICAO": "GSJ",
+      "Rufzeichen": "GROSSJET",
+      "Herkunftsland": "Tschechien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Gulf Air",
+      "IATA": "GF",
+      "ICAO": "GFA",
+      "Rufzeichen": "GULF AIR",
+      "Herkunftsland": "Bahrain",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Gum Air",
+      "IATA": "–",
+      "ICAO": "GUM",
+      "Rufzeichen": "GUM AIR",
+      "Herkunftsland": "Suriname",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "GX Airlines",
+      "IATA": "GP",
+      "ICAO": "CBG",
+      "Rufzeichen": "SPRAY",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Hahn Air Lines",
+      "IATA": "HR",
+      "ICAO": "HHN",
+      "Rufzeichen": "ROOSTER",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Hainan Airlines",
+      "IATA": "HU",
+      "ICAO": "CHH",
+      "Rufzeichen": "HAINAN",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Harbour Air",
+      "IATA": "H3",
+      "ICAO": "–",
+      "Rufzeichen": "HARBOUR AIR",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Hawaiian Airlines",
+      "IATA": "HA",
+      "ICAO": "HAL",
+      "Rufzeichen": "HAWAIIAN",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Heliswiss Ibérica",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Helvetic Airways",
+      "IATA": "2L",
+      "ICAO": "OAW",
+      "Rufzeichen": "HELVETIC",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Henan Airlines",
+      "IATA": "VD",
+      "ICAO": "KPA",
+      "Rufzeichen": "KUNPENG",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "HK Express",
+      "IATA": "UO",
+      "ICAO": "HKE",
+      "Rufzeichen": "HONGKONG SHUTTLE",
+      "Herkunftsland": "Hongkong",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Holiday Europe",
+      "IATA": "5Q",
+      "ICAO": "HES",
+      "Rufzeichen": "Holiday Europe",
+      "Herkunftsland": "Bulgarien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Horizon Air",
+      "IATA": "QX",
+      "ICAO": "QXE",
+      "Rufzeichen": "HORIZON AIR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Hong Kong Airlines",
+      "IATA": "HX",
+      "ICAO": "CRK",
+      "Rufzeichen": "BAUHINIA",
+      "Herkunftsland": "Hongkong",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Hunnu Air",
+      "IATA": "MR",
+      "ICAO": "MML",
+      "Rufzeichen": "TRANSMONGOLIA",
+      "Herkunftsland": "Mongolei",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "IAS Itzehoer Airservice",
+      "IATA": "–",
+      "ICAO": "FNK",
+      "Rufzeichen": "FUNKY",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Iberia",
+      "IATA": "IB",
+      "ICAO": "IBE",
+      "Rufzeichen": "IBERIA",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ibex Airlines",
+      "IATA": "FW",
+      "ICAO": "IBX",
+      "Rufzeichen": "IBEX",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Icar Air",
+      "IATA": "–",
+      "ICAO": "RAC",
+      "Rufzeichen": "TUZLA AIR",
+      "Herkunftsland": "Bosnien und Herzegowina",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Icarus Elicotteri",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Icelandair",
+      "IATA": "FI",
+      "ICAO": "ICE",
+      "Rufzeichen": "ICEAIR",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "IndiGo Airlines",
+      "IATA": "6E",
+      "ICAO": "IGO",
+      "Rufzeichen": "IFLY",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Indonesia AirAsia",
+      "IATA": "QZ",
+      "ICAO": "AWQ",
+      "Rufzeichen": "WAGON AIR",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Interair South Africa",
+      "IATA": "D6",
+      "ICAO": "ILN",
+      "Rufzeichen": "INLINE",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "InterCaribbean Airways",
+      "IATA": "JY",
+      "ICAO": "TCI",
+      "Rufzeichen": "ISLANDWAYS",
+      "Herkunftsland": "Turks- und Caicosinseln",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Interjet",
+      "IATA": "4O",
+      "ICAO": "AIJ",
+      "Rufzeichen": "INTERJET",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Iran Air",
+      "IATA": "IR",
+      "ICAO": "IRA",
+      "Rufzeichen": "IRAN AIR",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Iran Airtour",
+      "IATA": "B9",
+      "ICAO": "IRB",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Iran Aseman Airlines",
+      "IATA": "EP",
+      "ICAO": "IRC",
+      "Rufzeichen": "ASSEMAN",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Iraqi Airways",
+      "IATA": "IA",
+      "ICAO": "IAW",
+      "Rufzeichen": "IRAQI",
+      "Herkunftsland": "Irak",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P/R"
+    },
+    {
+      "Name": "ITA Airways",
+      "IATA": "AZ",
+      "ICAO": "ITY",
+      "Rufzeichen": "ITARROW",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Israir",
+      "IATA": "6H",
+      "ICAO": "ISR",
+      "Rufzeichen": "ISRAIR",
+      "Herkunftsland": "Israel",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jambojet",
+      "IATA": "JM",
+      "ICAO": "JMA",
+      "Rufzeichen": "CHUI",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Janet",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "Personentransport zur Nevada Test Site und Area 51"
+    },
+    {
+      "Name": "Japan Airlines",
+      "IATA": "JL",
+      "ICAO": "JAL",
+      "Rufzeichen": "JAPANAIR",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Japan Air Commuter",
+      "IATA": "3X",
+      "ICAO": "JAC",
+      "Rufzeichen": "COMMUTER",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Japan Transocean Air",
+      "IATA": "NU",
+      "ICAO": "JTA",
+      "Rufzeichen": "JAI OCEAN",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jazeera Airways",
+      "IATA": "J9",
+      "ICAO": "JZR",
+      "Rufzeichen": "JAZEERA",
+      "Herkunftsland": "Kuwait",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jazz Aviation",
+      "IATA": "QK",
+      "ICAO": "ARN",
+      "Rufzeichen": "AIR CANADA",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "J-Air",
+      "IATA": "XM",
+      "ICAO": "JLJ",
+      "Rufzeichen": "J-AIR",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jeju Air",
+      "IATA": "7C",
+      "ICAO": "JJA",
+      "Rufzeichen": "JEJU AIR",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "Value Alliance",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jet2.com",
+      "IATA": "LS",
+      "ICAO": "EXS",
+      "Rufzeichen": "CHANNEX",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jet Asia Airways",
+      "IATA": "JF",
+      "ICAO": "JAA",
+      "Rufzeichen": "JET ASIA",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jet Aviation",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "Airtaxi"
+    },
+    {
+      "Name": "JetConnect",
+      "IATA": "QF",
+      "ICAO": "QNZ",
+      "Rufzeichen": "QANTAS JETCONNECT",
+      "Herkunftsland": "Neuseeland",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jetblue Airways",
+      "IATA": "B6",
+      "ICAO": "JBU",
+      "Rufzeichen": "JETBLUE",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jet Executive International Charter",
+      "IATA": "–",
+      "ICAO": "JEI",
+      "Rufzeichen": "JET EXECUTIVE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "JetSmart",
+      "IATA": "JA",
+      "ICAO": "JAT",
+      "Rufzeichen": "ROCKSMART",
+      "Herkunftsland": "Chile",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jetstar Airways",
+      "IATA": "JQ",
+      "ICAO": "JST",
+      "Rufzeichen": "JETSTAR",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jetstar Asia Airways",
+      "IATA": "3K",
+      "ICAO": "JSA",
+      "Rufzeichen": "JETSTAR ASIA",
+      "Herkunftsland": "Singapur",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jetstar Pacific Airlines",
+      "IATA": "BL",
+      "ICAO": "PIC",
+      "Rufzeichen": "PACIFIC EXPRESS",
+      "Herkunftsland": "Vietnam",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Jet Time Finnland",
+      "IATA": "–",
+      "ICAO": "JTF",
+      "Rufzeichen": "JETFIN",
+      "Herkunftsland": "Finnland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Jhonlin Air Transport",
+      "IATA": "–",
+      "ICAO": "JLB",
+      "Rufzeichen": "JHONLIN",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jin Air",
+      "IATA": "LJ",
+      "ICAO": "JNA",
+      "Rufzeichen": "JIN AIR",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jordan Aviation",
+      "IATA": "R5",
+      "ICAO": "JAV",
+      "Rufzeichen": "JORDAN AVIATION",
+      "Herkunftsland": "Jordanien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jubba Airways (Somalia)",
+      "IATA": "6J",
+      "ICAO": "JUB",
+      "Rufzeichen": "Jubba",
+      "Herkunftsland": "Somalia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Jubba Airways (Kenia)",
+      "IATA": "3J",
+      "ICAO": "JBW",
+      "Rufzeichen": "Airjub",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Ju-Air",
+      "IATA": "–",
+      "ICAO": "JUR",
+      "Rufzeichen": "Ju-Air",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "S (Nostalgieflüge)"
+    },
+    {
+      "Name": "Justice Prisoner and Alien Transportation System (ugs. Con Air)",
+      "IATA": "–",
+      "ICAO": "DOJ",
+      "Rufzeichen": "Justice",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "Gefangenentransport"
+    },
+    {
+      "Name": "K-Mile Air",
+      "IATA": "8K",
+      "ICAO": "KMI",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Kalitta Air",
+      "IATA": "K4",
+      "ICAO": "CKS",
+      "Rufzeichen": "CONNIE",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Kalitta Charters",
+      "IATA": "CB",
+      "ICAO": "KFS",
+      "Rufzeichen": "KALITTA",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Kam Air",
+      "IATA": "RQ",
+      "ICAO": "KMF",
+      "Rufzeichen": "KAMGAR",
+      "Herkunftsland": "Afghanistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Karinou Airlines",
+      "IATA": "U5",
+      "ICAO": "KRN",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Zentralafrikanische Republik",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Kaz Air Trans",
+      "IATA": "–",
+      "ICAO": "KUY",
+      "Rufzeichen": "KAIGA",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Kazaviaspas",
+      "IATA": "–",
+      "ICAO": "KZS",
+      "Rufzeichen": "SPAKAZ",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Kenn Borek Air",
+      "IATA": "4K",
+      "ICAO": "KBA",
+      "Rufzeichen": "BOREK AIR",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Kenya Airways",
+      "IATA": "KQ",
+      "ICAO": "KQA",
+      "Rufzeichen": "KENYA",
+      "Herkunftsland": "Kenia",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Kish Air",
+      "IATA": "Y9",
+      "ICAO": "IRK",
+      "Rufzeichen": "KISHAIR",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "KlasJet",
+      "IATA": "–",
+      "ICAO": "KLJ",
+      "Rufzeichen": "CLASS LINE",
+      "Herkunftsland": "Litauen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "KLM",
+      "IATA": "KL",
+      "ICAO": "KLM",
+      "Rufzeichen": "KLM",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "KLM Cityhopper",
+      "IATA": "WA",
+      "ICAO": "KLC",
+      "Rufzeichen": "KLM",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Korean Air",
+      "IATA": "KE",
+      "ICAO": "KAL",
+      "Rufzeichen": "KOREANAIR",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "KrasAvia",
+      "IATA": "–",
+      "ICAO": "KRS",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Kulula",
+      "IATA": "MN",
+      "ICAO": "CAW",
+      "Rufzeichen": "COMAIR",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Kuwait Airways",
+      "IATA": "KU",
+      "ICAO": "KAC",
+      "Rufzeichen": "KUWAITI",
+      "Herkunftsland": "Kuwait",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "La Compagnie",
+      "IATA": "B0",
+      "ICAO": "DJT",
+      "Rufzeichen": "DREAMJET",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LAM Lineas Aereas de Mocambique",
+      "IATA": "TM",
+      "ICAO": "LAM",
+      "Rufzeichen": "MOZAMBIQUE",
+      "Herkunftsland": "Mosambik",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Lao Airlines",
+      "IATA": "QV",
+      "ICAO": "LAO",
+      "Rufzeichen": "LAO",
+      "Herkunftsland": "Laos",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines",
+      "IATA": "LA",
+      "ICAO": "LAN",
+      "Rufzeichen": "LAN",
+      "Herkunftsland": "Chile",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines Brasil",
+      "IATA": "JJ",
+      "ICAO": "TAM",
+      "Rufzeichen": "TAM",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines Colombia",
+      "IATA": "4C",
+      "ICAO": "ARE",
+      "Rufzeichen": "AIRES",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines Ecuador",
+      "IATA": "XL",
+      "ICAO": "LNA",
+      "Rufzeichen": "LAN ECUADOR",
+      "Herkunftsland": "Ecuador",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines Paraguay",
+      "IATA": "PZ",
+      "ICAO": "LAP",
+      "Rufzeichen": "PARAGUAYA",
+      "Herkunftsland": "Paraguay",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Airlines Perú",
+      "IATA": "LP",
+      "ICAO": "LPE",
+      "Rufzeichen": "LAN PERU",
+      "Herkunftsland": "Peru",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "LATAM Cargo Brasil",
+      "IATA": "M3",
+      "ICAO": "TUS",
+      "Rufzeichen": "TURISMO",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "LATAM Express",
+      "IATA": "LU",
+      "ICAO": "LXP",
+      "Rufzeichen": "LAN EX",
+      "Herkunftsland": "Chile",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Lauda Europe",
+      "IATA": "LW",
+      "ICAO": "LDA",
+      "Rufzeichen": "BEAUFORT",
+      "Herkunftsland": "Malta",
+      "Luftfahrtallianz": "Ryanair Group",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "LC Perú",
+      "IATA": "–",
+      "ICAO": "LCB",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Peru",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Leeward Islands Air Transport",
+      "IATA": "LI",
+      "ICAO": "LIA",
+      "Rufzeichen": "LIAT",
+      "Herkunftsland": "Antigua und Barbuda",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Level (Fluggesellschaft)",
+      "IATA": "IB",
+      "ICAO": "IBE",
+      "Rufzeichen": "IBERIA",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Libyan Airlines",
+      "IATA": "LN",
+      "ICAO": "LAA",
+      "Rufzeichen": "LIBAIR",
+      "Herkunftsland": "Libyen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Libyan Arab Air Cargo",
+      "IATA": "–",
+      "ICAO": "LCR",
+      "Rufzeichen": "LIBAC",
+      "Herkunftsland": "Libyen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Líneas Aéreas del Estado",
+      "IATA": "LD",
+      "ICAO": "LDE",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Argentinien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Líneas Aéreas Suramericanas",
+      "IATA": "–",
+      "ICAO": "LAU",
+      "Rufzeichen": "SURAMERICANO",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Lion Air",
+      "IATA": "JT",
+      "ICAO": "LNI",
+      "Rufzeichen": "LION INTER",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Loganair",
+      "IATA": "LC",
+      "ICAO": "LOG",
+      "Rufzeichen": "LOGAN",
+      "Herkunftsland": "Schottland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Longhao Airlines",
+      "IATA": "GI",
+      "ICAO": "LHA",
+      "Rufzeichen": "",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "LOT",
+      "IATA": "LO",
+      "ICAO": "LOT",
+      "Rufzeichen": "POLLOT",
+      "Herkunftsland": "Polen",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Lufthansa",
+      "IATA": "LH",
+      "ICAO": "DLH",
+      "Rufzeichen": "LUFTHANSA",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Lufthansa Cargo",
+      "IATA": "LH",
+      "ICAO": "GEC",
+      "Rufzeichen": "LUFTHANSA CARGO",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Lufthansa CityLine",
+      "IATA": "CL",
+      "ICAO": "CLH",
+      "Rufzeichen": "Mit LH-Flugnummer: LUFTHANSAMit CL-Flugnummer: HANSALINE",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Lulutai Airlines",
+      "IATA": "L8",
+      "ICAO": "",
+      "Rufzeichen": "",
+      "Herkunftsland": "Tonga",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Lumiwings",
+      "IATA": "−",
+      "ICAO": "LWI",
+      "Rufzeichen": "LUMI",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Luxair",
+      "IATA": "LG",
+      "ICAO": "LGL",
+      "Rufzeichen": "LUXAIR",
+      "Herkunftsland": "Luxemburg",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P/R"
+    },
+    {
+      "Name": "Luxaviation",
+      "IATA": "–",
+      "ICAO": "LXA",
+      "Rufzeichen": "RED LION",
+      "Herkunftsland": "Luxemburg",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C/R"
+    },
+    {
+      "Name": "Luxaviation Germany",
+      "IATA": "–",
+      "ICAO": "LXG",
+      "Rufzeichen": "LUX AVIATION",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Lynden Air Cargo",
+      "IATA": "LY",
+      "ICAO": "LYC",
+      "Rufzeichen": "LYNDEN",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Mahogany Air",
+      "IATA": "KT",
+      "ICAO": "HOG",
+      "Rufzeichen": "HOGAN AIR",
+      "Herkunftsland": "Sambia",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Mahan Air",
+      "IATA": "W5",
+      "ICAO": "IRM",
+      "Rufzeichen": "MAHAN AIR",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Mahfooz Aviation",
+      "IATA": "M2",
+      "ICAO": "MZS",
+      "Rufzeichen": "MAHFOOZ",
+      "Herkunftsland": "Gambia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Malaysia Airlines",
+      "IATA": "MH",
+      "ICAO": "MAS",
+      "Rufzeichen": "MALAYSIAN",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Maldivian",
+      "IATA": "Q2",
+      "ICAO": "DQA",
+      "Rufzeichen": "MALDIVIAN",
+      "Herkunftsland": "Malediven",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Mali Air",
+      "IATA": "–",
+      "ICAO": "MAE",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Mandarin Airlines",
+      "IATA": "AE",
+      "ICAO": "MDA",
+      "Rufzeichen": "MANDARIN",
+      "Herkunftsland": "Taiwan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Mango",
+      "IATA": "JE",
+      "ICAO": "MNO",
+      "Rufzeichen": "TULCA",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Mann Yadanarpon Airlines",
+      "IATA": "7Y",
+      "ICAO": "MYP",
+      "Rufzeichen": "MANN ROYAL",
+      "Herkunftsland": "Myanmar",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Martinair",
+      "IATA": "MP",
+      "ICAO": "MPH",
+      "Rufzeichen": "MARTINAIR",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "MASwings",
+      "IATA": "MH",
+      "ICAO": "MWG",
+      "Rufzeichen": "MASWINGS",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Max Air",
+      "IATA": "NR",
+      "ICAO": "NGL",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Maya Island Air",
+      "IATA": "MY",
+      "ICAO": "MYD",
+      "Rufzeichen": "MYLAND",
+      "Herkunftsland": "Belize",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Maximus Air Cargo",
+      "IATA": "–",
+      "ICAO": "MXU",
+      "Rufzeichen": "CARGO MAX",
+      "Herkunftsland": "VAE",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Med-View Airline",
+      "IATA": "VL",
+      "ICAO": "MEV",
+      "Rufzeichen": "MED-VIEW",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Medavia",
+      "IATA": "9H",
+      "ICAO": "MDM",
+      "Rufzeichen": "MEDAVIA",
+      "Herkunftsland": "Malta",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Mesa Airlines",
+      "IATA": "YV",
+      "ICAO": "ASH",
+      "Rufzeichen": "AIR SHUTTLE",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "MHS Aviation",
+      "IATA": "M2",
+      "ICAO": "MHV",
+      "Rufzeichen": "SNOWCAP",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Mid Airlines",
+      "IATA": "–",
+      "ICAO": "NYL",
+      "Rufzeichen": "NILE",
+      "Herkunftsland": "Sudan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "MIAT Mongolian Airlines",
+      "IATA": "OM",
+      "ICAO": "MGL",
+      "Rufzeichen": "MONGOL AIR",
+      "Herkunftsland": "Mongolei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Mount Cook Airline",
+      "IATA": "NM",
+      "ICAO": "NZM",
+      "Rufzeichen": "MOUNT COOK",
+      "Herkunftsland": "Neuseeland",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Motor Sich Airlines",
+      "IATA": "M9",
+      "ICAO": "MSI",
+      "Rufzeichen": "MOTOR SICH",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Middle East Airlines",
+      "IATA": "ME",
+      "ICAO": "MEA",
+      "Rufzeichen": "CEDAR JET",
+      "Herkunftsland": "Libanon",
+      "Luftfahrtallianz": "Sky Team",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "MNG Airlines",
+      "IATA": "MB",
+      "ICAO": "MNB",
+      "Rufzeichen": "BLACK SEA",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Mustique Airways",
+      "IATA": "–",
+      "ICAO": "MAW",
+      "Rufzeichen": "MUSTIQUE",
+      "Herkunftsland": "St. Vincent und die Grenadinen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Myanmar National Airlines",
+      "IATA": "UB",
+      "ICAO": "UBA",
+      "Rufzeichen": "UNIONAIR",
+      "Herkunftsland": "Myanmar",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Myanmar Airways International",
+      "IATA": "8M",
+      "ICAO": "UBA",
+      "Rufzeichen": "UNIONAIR",
+      "Herkunftsland": "Myanmar",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Mýflug",
+      "IATA": "",
+      "ICAO": "MYA",
+      "Rufzeichen": "MYFLUG",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "My Indo Airlines",
+      "IATA": "2Y",
+      "ICAO": "MYU",
+      "Rufzeichen": "MYINDO",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "MyWay Airlines",
+      "IATA": "MJ",
+      "ICAO": "MYW",
+      "Rufzeichen": "MY SKY",
+      "Herkunftsland": "Georgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "National Air Services",
+      "IATA": "XY",
+      "ICAO": "KNE",
+      "Rufzeichen": "NAS EXPRESS",
+      "Herkunftsland": "Saudi-Arabien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Nauru Airlines",
+      "IATA": "ON",
+      "ICAO": "RON",
+      "Rufzeichen": "OUR AIRLINE",
+      "Herkunftsland": "Nauru",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Neos",
+      "IATA": "NO",
+      "ICAO": "NOS",
+      "Rufzeichen": "MOONFLOWER",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Nepal Airlines",
+      "IATA": "RA",
+      "ICAO": "RNA",
+      "Rufzeichen": "NEPAL",
+      "Herkunftsland": "Nepal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "NetJets Europe",
+      "IATA": "1I",
+      "ICAO": "NJE",
+      "Rufzeichen": "FRACTION",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "NetJets Business Aviation",
+      "IATA": "1I",
+      "ICAO": "NEJ",
+      "Rufzeichen": "NET BUSINESS",
+      "Herkunftsland": "Vereinigte Staaten",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "NetJets Aviation",
+      "IATA": "1I",
+      "ICAO": "EJA",
+      "Rufzeichen": "EXECJET",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": ""
+    },
+    {
+      "Name": "New Central Airservice",
+      "IATA": "–",
+      "ICAO": "CUK",
+      "Rufzeichen": "CHUOH AIR",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "New England Airlines",
+      "IATA": "EJ",
+      "ICAO": "NEA",
+      "Rufzeichen": "NEW ENGLAND",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Nippon Cargo Airlines",
+      "IATA": "KZ",
+      "ICAO": "NCA",
+      "Rufzeichen": "NIPPON CARGO",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Nok Air",
+      "IATA": "DD",
+      "ICAO": "NOK",
+      "Rufzeichen": "NOK AIR",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Nordic Regional Airlines",
+      "IATA": "N7",
+      "ICAO": "FCM",
+      "Rufzeichen": "FINNCOMM",
+      "Herkunftsland": "Finnland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Nordic Seaplanes",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Norlandair",
+      "IATA": "",
+      "ICAO": "FNA",
+      "Rufzeichen": "NORLAND",
+      "Herkunftsland": "Island",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Northern Thunderbird Air",
+      "IATA": "–",
+      "ICAO": "NTA",
+      "Rufzeichen": "THUNDERBIRD",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "North Flying",
+      "IATA": "–",
+      "ICAO": "NFA",
+      "Rufzeichen": "NORTH FLYING",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "North-Wright Airways",
+      "IATA": "HW",
+      "ICAO": "NWL",
+      "Rufzeichen": "NORTHWRIGHT",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Air Argentina",
+      "IATA": "DN",
+      "ICAO": "NAA",
+      "Rufzeichen": "NORUEGA",
+      "Herkunftsland": "Argentinien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Air International",
+      "IATA": "D8",
+      "ICAO": "IBK",
+      "Rufzeichen": "NORTRANS",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Air Norway",
+      "IATA": "DH",
+      "ICAO": "NAN",
+      "Rufzeichen": "NORSHIP",
+      "Herkunftsland": "Norwegen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Norwegian Air Shuttle",
+      "IATA": "DY",
+      "ICAO": "NAX",
+      "Rufzeichen": "NOR SHUTTLE",
+      "Herkunftsland": "Norwegen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Air Sweden",
+      "IATA": "LE",
+      "ICAO": "NSW",
+      "Rufzeichen": "NORDIC",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Air UK",
+      "IATA": "DI",
+      "ICAO": "NRS",
+      "Rufzeichen": "REDNOSE",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Norwegian Long Haul",
+      "IATA": "DU",
+      "ICAO": "NLH",
+      "Rufzeichen": "NORSTAR",
+      "Herkunftsland": "Norwegen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Nouvelair Tunisie",
+      "IATA": "BJ",
+      "ICAO": "LBT",
+      "Rufzeichen": "NOUVELAIR",
+      "Herkunftsland": "Tunesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B/C"
+    },
+    {
+      "Name": "Nouvelle Air Affaires Gabon",
+      "IATA": "–",
+      "ICAO": "NVS",
+      "Rufzeichen": "NOUVELLE AFFAIRES",
+      "Herkunftsland": "Gabun",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Novair",
+      "IATA": "1I",
+      "ICAO": "NVR",
+      "Rufzeichen": "NAVIGATOR",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Nyxair",
+      "IATA": "–",
+      "ICAO": "NYX",
+      "Rufzeichen": "NYX AIR",
+      "Herkunftsland": "Estland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "OFD Ostfriesischer Flugdienst",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Olympic Air",
+      "IATA": "OA",
+      "ICAO": "OAL",
+      "Rufzeichen": "OLYMPIC",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Olympus Airways",
+      "IATA": "–",
+      "ICAO": "OLY",
+      "Rufzeichen": "OLYAIR",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Oman Air",
+      "IATA": "WY",
+      "ICAO": "OMA",
+      "Rufzeichen": "OMAN AIR",
+      "Herkunftsland": "Oman",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Omni Aviation",
+      "IATA": "OC",
+      "ICAO": "OAV",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Omni Air International",
+      "IATA": "OY",
+      "ICAO": "OAE",
+      "Rufzeichen": "OMNI-EXPRESS",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C/R"
+    },
+    {
+      "Name": "Onur Air",
+      "IATA": "8Q",
+      "ICAO": "OHY",
+      "Rufzeichen": "ONUR AIR",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Orange2fly",
+      "IATA": "OT",
+      "ICAO": "OTF",
+      "Rufzeichen": "ORANGESKY",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Overland Airways",
+      "IATA": "OJ",
+      "ICAO": "OLA",
+      "Rufzeichen": "OVERLAND",
+      "Herkunftsland": "Nigeria",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Pacific Coastal Airlines",
+      "IATA": "8P",
+      "ICAO": "PCO",
+      "Rufzeichen": "PASCO",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Pad Aviation",
+      "IATA": "–",
+      "ICAO": "PVD",
+      "Rufzeichen": "PAD AVIATION",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Pakistan International Airlines",
+      "IATA": "PK",
+      "ICAO": "PIA",
+      "Rufzeichen": "PAKISTAN",
+      "Herkunftsland": "Pakistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Pegasus Airlines",
+      "IATA": "H9",
+      "ICAO": "PGT",
+      "Rufzeichen": "SUNTURK",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Pel-Air",
+      "IATA": "XM",
+      "ICAO": "QWA",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Pelita Air Service",
+      "IATA": "6D",
+      "ICAO": "PAS",
+      "Rufzeichen": "PELITA",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Peninsula Airways",
+      "IATA": "KS",
+      "ICAO": "PEN",
+      "Rufzeichen": "PENINSULA",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Piedmont Airlines",
+      "IATA": "EN",
+      "ICAO": "PDT",
+      "Rufzeichen": "PIEDMONT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Philippine Airlines",
+      "IATA": "PR",
+      "ICAO": "PAL",
+      "Rufzeichen": "PHILIPPINE",
+      "Herkunftsland": "Philippinen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "PNG Air",
+      "IATA": "CG",
+      "ICAO": "TOK",
+      "Rufzeichen": "BALUS",
+      "Herkunftsland": "Papua-Neuguinea",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Polar Air Cargo",
+      "IATA": "PO",
+      "ICAO": "PAC",
+      "Rufzeichen": "POLAR",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Porter Airlines",
+      "IATA": "PD",
+      "ICAO": "POE",
+      "Rufzeichen": "PORTER AIR",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Portugália Airlines",
+      "IATA": "NI",
+      "ICAO": "PGA",
+      "Rufzeichen": "AIR PORTUGAL",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Poste Air Cargo",
+      "IATA": "7M",
+      "ICAO": "MSA",
+      "Rufzeichen": "MISTRAL",
+      "Herkunftsland": "Italien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Precision Air",
+      "IATA": "PW",
+      "ICAO": "PRF",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Tansania",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Private Wings",
+      "IATA": "8W",
+      "ICAO": "PWF",
+      "Rufzeichen": "PRIVATE WINGS",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "PSA Airlines",
+      "IATA": "JS",
+      "ICAO": "JIA",
+      "Rufzeichen": "BLUE STREAK",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "PTL Luftfahrtunternehmen",
+      "IATA": "PQ",
+      "ICAO": "KST",
+      "Rufzeichen": "KING STAR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+ (auch Ambulanzflüge)"
+    },
+    {
+      "Name": "Qantas Airways",
+      "IATA": "QF",
+      "ICAO": "QFA",
+      "Rufzeichen": "QANTAS",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "QantasLink",
+      "IATA": "QF",
+      "ICAO": "EAQ, SSQ, NJS, UTY",
+      "Rufzeichen": "EASTERN, SUNSTATE, NATIONAL JET, UNITY",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Qatar Airways",
+      "IATA": "QR",
+      "ICAO": "QTR",
+      "Rufzeichen": "QATARI",
+      "Herkunftsland": "Katar",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "RAF-Avia",
+      "IATA": "–",
+      "ICAO": "MTL",
+      "Rufzeichen": "MITAVIA",
+      "Herkunftsland": "Lettland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Raya Airways",
+      "IATA": "TH",
+      "ICAO": "TSE",
+      "Rufzeichen": "TRANSMILE",
+      "Herkunftsland": "Malaysia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Real Tonga Airlines",
+      "IATA": "RT",
+      "ICAO": "RLT",
+      "Rufzeichen": "REAL TONGA",
+      "Herkunftsland": "Tonga",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Red Wings Airlines",
+      "IATA": "WZ",
+      "ICAO": "RWZ",
+      "Rufzeichen": "RED AIR",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "R1 Airlines",
+      "IATA": "–",
+      "ICAO": "TSH",
+      "Rufzeichen": "TRANSCANADA",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Regional Air Services",
+      "IATA": "–",
+      "ICAO": "REG",
+      "Rufzeichen": "REGIONAL SERVICES",
+      "Herkunftsland": "Tansania",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Regional Express",
+      "IATA": "ZL",
+      "ICAO": "RXA",
+      "Rufzeichen": "REX",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Republic Airline",
+      "IATA": "RW",
+      "ICAO": "RPA",
+      "Rufzeichen": "BRICKYARD",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Rossija",
+      "IATA": "R4 & FV",
+      "ICAO": "SDM & PLK",
+      "Rufzeichen": "RUSSIA",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Royal Air Maroc",
+      "IATA": "AT",
+      "ICAO": "RAM",
+      "Rufzeichen": "ROYAL AIR MAROC",
+      "Herkunftsland": "Marokko",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Royal Air Maroc Express",
+      "IATA": "FN",
+      "ICAO": "RXP",
+      "Rufzeichen": "EXPRESS MAROC",
+      "Herkunftsland": "Marokko",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Royal Brunei Airlines",
+      "IATA": "BI",
+      "ICAO": "RBA",
+      "Rufzeichen": "BRUNEI",
+      "Herkunftsland": "Brunei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Royal Jordanian",
+      "IATA": "RJ",
+      "ICAO": "RJA",
+      "Rufzeichen": "JORDANIAN",
+      "Herkunftsland": "Jordanien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "RwandAir",
+      "IATA": "WB",
+      "ICAO": "RWD",
+      "Rufzeichen": "RWANDAIR",
+      "Herkunftsland": "Ruanda",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "RWL Luftfahrtgesellschaft",
+      "IATA": "–",
+      "ICAO": "RWL",
+      "Rufzeichen": "RHEINTRAINER",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ryanair",
+      "IATA": "FR",
+      "ICAO": "RYR",
+      "Rufzeichen": "RYANAIR",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "Ryanair Group",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Ryūkyū Air Commuter",
+      "IATA": "–",
+      "ICAO": "RAC",
+      "Rufzeichen": "RYUKYU",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "S7 Airlines",
+      "IATA": "S7",
+      "ICAO": "SBI",
+      "Rufzeichen": "SIBERIAN AIRLINES",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sabang Merauke Raya Air Charter",
+      "IATA": "–",
+      "ICAO": "SMC",
+      "Rufzeichen": "SAMER",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Safair",
+      "IATA": "FA",
+      "ICAO": "SFR",
+      "Rufzeichen": "CARGO",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "SalamAir",
+      "IATA": "OV",
+      "ICAO": "OMS",
+      "Rufzeichen": "MAZOON",
+      "Herkunftsland": "Oman",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Samoa Airways",
+      "IATA": "OL",
+      "ICAO": "PAO",
+      "Rufzeichen": "POLYNESIAN",
+      "Herkunftsland": "Samoa",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Sansa Regional Airline",
+      "IATA": "RZ",
+      "ICAO": "LRS",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Costa Rica",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SATA Air Açores",
+      "IATA": "SP",
+      "ICAO": "SAT",
+      "Rufzeichen": "SATA",
+      "Herkunftsland": "Portugal (Azoren)",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Satena",
+      "IATA": "9N",
+      "ICAO": "NSE",
+      "Rufzeichen": "SATENA",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SAS Scandinavian Airlines",
+      "IATA": "SK",
+      "ICAO": "SAS",
+      "Rufzeichen": "SCANDINAVIAN",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Saudi Arabian Airlines",
+      "IATA": "SV",
+      "ICAO": "SVA",
+      "Rufzeichen": "SAUDIA",
+      "Herkunftsland": "Saudi-Arabien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sayat Air",
+      "IATA": "–",
+      "ICAO": "SYM",
+      "Rufzeichen": "SAYAT AIR",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Scandinavian Airlines Ireland",
+      "IATA": "–",
+      "ICAO": "SZS",
+      "Rufzeichen": "SPINNAKER",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SCAT Airlines",
+      "IATA": "DV",
+      "ICAO": "VSV",
+      "Rufzeichen": "VLASTA",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Scoot",
+      "IATA": "OQ",
+      "ICAO": "SCO",
+      "Rufzeichen": "SCOOTER",
+      "Herkunftsland": "Singapur",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Semeyavia",
+      "IATA": "E8",
+      "ICAO": "SMK",
+      "Rufzeichen": "ERTIS",
+      "Herkunftsland": "Kasachstan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Shandong Airlines",
+      "IATA": "SC",
+      "ICAO": "CDG",
+      "Rufzeichen": "SHANDONG",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Xinxing",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Shanghai Airlines",
+      "IATA": "FM",
+      "ICAO": "CSH",
+      "Rufzeichen": "SHANGHAI AIR",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Shenzhen Airlines",
+      "IATA": "ZH",
+      "ICAO": "CSZ",
+      "Rufzeichen": "SHENZENAIR",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sichuan Airlines",
+      "IATA": "3U",
+      "ICAO": "CSC",
+      "Rufzeichen": "CHUANHANG",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "Xinxing",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sierra Pacific Airlines",
+      "IATA": "SI",
+      "ICAO": "SPA",
+      "Rufzeichen": "SIERRA PACIFIC",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Silver Airways",
+      "IATA": "3M",
+      "ICAO": "GFT",
+      "Rufzeichen": "GULF FLIGHT",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Silver Cloud Air",
+      "IATA": "–",
+      "ICAO": "SCR",
+      "Rufzeichen": "Silver Cloud",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Singapore Airlines",
+      "IATA": "SQ",
+      "ICAO": "SIA",
+      "Rufzeichen": "SINGAPORE",
+      "Herkunftsland": "Singapur",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sky Airline",
+      "IATA": "H2",
+      "ICAO": "SKU",
+      "Rufzeichen": "AEROSKY",
+      "Herkunftsland": "Chile",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sky Express SA",
+      "IATA": "GQ",
+      "ICAO": "SEH",
+      "Rufzeichen": "AIR CRETE",
+      "Herkunftsland": "Griechenland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sky Georgia",
+      "IATA": "QB",
+      "ICAO": "GFG",
+      "Rufzeichen": "NATIONAL",
+      "Herkunftsland": "Georgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sky Lease Cargo",
+      "IATA": "WI",
+      "ICAO": "KYE",
+      "Rufzeichen": "SKY CUBE",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Sky Regional Airlines",
+      "IATA": "RS",
+      "ICAO": "SKV",
+      "Rufzeichen": "MAPLE",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Skymark",
+      "IATA": "BC",
+      "ICAO": "SKY",
+      "Rufzeichen": "SKYMARK",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Skytraders",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Skytrans Airlines",
+      "IATA": "Q6",
+      "ICAO": "SKP",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "SkyUp Airlines",
+      "IATA": "PQ",
+      "ICAO": "SQP",
+      "Rufzeichen": "SKYUP",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "SkyWest Airlines",
+      "IATA": "OO",
+      "ICAO": "SKW",
+      "Rufzeichen": "SKYWEST",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "Sky Team (Delta Connection)Star Alliance (United Express)",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SmartAvia",
+      "IATA": "5N",
+      "ICAO": "AUL",
+      "Rufzeichen": "DVINA",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SmartLynx Airlines",
+      "IATA": "6Y",
+      "ICAO": "ART",
+      "Rufzeichen": "SMART LYNX",
+      "Herkunftsland": "Lettland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "SmartLynx Airlines Estonia",
+      "IATA": "–",
+      "ICAO": "MYX",
+      "Rufzeichen": "TALLINN CAT",
+      "Herkunftsland": "Estland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Smartwings",
+      "IATA": "QS",
+      "ICAO": "TVS",
+      "Rufzeichen": "SKYTRAVEL",
+      "Herkunftsland": "Tschechien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Smartwings Hungary",
+      "IATA": "7O",
+      "ICAO": "TVL",
+      "Rufzeichen": "TRAVELLER",
+      "Herkunftsland": "Ungarn",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Solinair",
+      "IATA": "",
+      "ICAO": "SOP",
+      "Rufzeichen": "SOLINAIR",
+      "Herkunftsland": "Slowenien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Solomon Airlines",
+      "IATA": "IE",
+      "ICAO": "SOL",
+      "Rufzeichen": "SOLOMON",
+      "Herkunftsland": "Salomonen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "South African Airways",
+      "IATA": "SA",
+      "ICAO": "SAA",
+      "Rufzeichen": "SPRINGBOK",
+      "Herkunftsland": "Südafrika",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "South Supreme Airlines",
+      "IATA": "–",
+      "ICAO": "FDD",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Südsudan",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Southwest Airlines",
+      "IATA": "WN",
+      "ICAO": "SWA",
+      "Rufzeichen": "SOUTHWEST",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "SpiceJet",
+      "IATA": "SG",
+      "ICAO": "SEJ",
+      "Rufzeichen": "SPICEJET",
+      "Herkunftsland": "Indien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Spirit Airlines",
+      "IATA": "NK",
+      "ICAO": "NKS",
+      "Rufzeichen": "SPIRIT WINGS",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Spring Airlines",
+      "IATA": "9C",
+      "ICAO": "CQH",
+      "Rufzeichen": "AIR SPRING",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Sprintair",
+      "IATA": "–",
+      "ICAO": "SRN",
+      "Rufzeichen": "SPRINTAIR",
+      "Herkunftsland": "Polen",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "SriLankan Airlines",
+      "IATA": "UL",
+      "ICAO": "ALK",
+      "Rufzeichen": "SRILANKAN",
+      "Herkunftsland": "Sri Lanka",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "St Barth Commuter",
+      "IATA": "PV",
+      "ICAO": "SBU",
+      "Rufzeichen": "BLACK FIN",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Star Air",
+      "IATA": "S6",
+      "ICAO": "SRR",
+      "Rufzeichen": "WHITESTAR",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "StarFlyer",
+      "IATA": "7G",
+      "ICAO": "SFJ",
+      "Rufzeichen": "STAR LINK",
+      "Herkunftsland": "Japan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Starling Air",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Star Perú",
+      "IATA": "2I",
+      "ICAO": "SRU",
+      "Rufzeichen": "STAR UP",
+      "Herkunftsland": "Peru",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Star Wings Dortmund",
+      "IATA": "–",
+      "ICAO": "STQ",
+      "Rufzeichen": "STARTREK",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Stobart Air",
+      "IATA": "RE",
+      "ICAO": "STK",
+      "Rufzeichen": "STOBART",
+      "Herkunftsland": "Irland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Sudan Airways",
+      "IATA": "SD",
+      "ICAO": "SUD",
+      "Rufzeichen": "SUDANAIR",
+      "Herkunftsland": "Sudan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sun-Air of Scandinavia",
+      "IATA": "EZ",
+      "ICAO": "SUS",
+      "Rufzeichen": "SUNSCAN",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sunclass Airlines",
+      "IATA": "DK",
+      "ICAO": "VKG",
+      "Rufzeichen": "VIKING",
+      "Herkunftsland": "Dänemark",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Sun Country Airlines",
+      "IATA": "SY",
+      "ICAO": "SCX",
+      "Rufzeichen": "SUN COUNTRY",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Sundair",
+      "IATA": "SDR",
+      "ICAO": "SDR",
+      "Rufzeichen": "SUNDAIR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Sun d’Or International Airlines",
+      "IATA": "2U",
+      "ICAO": "ERO",
+      "Rufzeichen": "ECHO ROMEO",
+      "Herkunftsland": "Israel",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Sunexpress",
+      "IATA": "XQ",
+      "ICAO": "SXS",
+      "Rufzeichen": "SUNEXPRESS",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sunstate Airlines",
+      "IATA": "QF",
+      "ICAO": "SSQ",
+      "Rufzeichen": "Q LINK",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "oneworld Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sunwing Airlines",
+      "IATA": "WG",
+      "ICAO": "SWG",
+      "Rufzeichen": "SUNWING",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Suparna Airlines",
+      "IATA": "Y8",
+      "ICAO": "YZR",
+      "Rufzeichen": "YANGTZE RIVER",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Surinam Airways",
+      "IATA": "PY",
+      "ICAO": "SLM",
+      "Rufzeichen": "SURINAM",
+      "Herkunftsland": "Suriname",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Susi Air",
+      "IATA": "SI",
+      "ICAO": "–",
+      "Rufzeichen": "SUSI AIR",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "SVG Air",
+      "IATA": "–",
+      "ICAO": "SVD",
+      "Rufzeichen": "GRENADINES",
+      "Herkunftsland": "St. Vincent und die Grenadinen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Swiss",
+      "IATA": "LX",
+      "ICAO": "SWR",
+      "Rufzeichen": "SWISS",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Sydney Seaplanes",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Sylt Air",
+      "IATA": "7E",
+      "ICAO": "AWU",
+      "Rufzeichen": "SYLT AIR",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Syrian Arab Airlines",
+      "IATA": "RB",
+      "ICAO": "SYR",
+      "Rufzeichen": "SYRIANAIR",
+      "Herkunftsland": "Syrien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "TAAG Angola Airlines",
+      "IATA": "DT",
+      "ICAO": "DTA",
+      "Rufzeichen": "ANGOLA",
+      "Herkunftsland": "Angola",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Tailwind Airlines",
+      "IATA": "TI",
+      "ICAO": "TWI",
+      "Rufzeichen": "TAILWIND",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Tajik Air",
+      "IATA": "7J",
+      "ICAO": "TZK",
+      "Rufzeichen": "TAJIKISTAN",
+      "Herkunftsland": "Tadschikistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "TAP Air Portugal",
+      "IATA": "TP",
+      "ICAO": "TAP",
+      "Rufzeichen": "AIR PORTUGAL",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Tara Air",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Nepal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "TAROM",
+      "IATA": "RO",
+      "ICAO": "ROT",
+      "Rufzeichen": "TAROM",
+      "Herkunftsland": "Rumänien",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Tasman Cargo Airlines",
+      "IATA": "HJ",
+      "ICAO": "TMN",
+      "Rufzeichen": "TASMAN",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Tassili Airlines",
+      "IATA": "SF",
+      "ICAO": "DTH",
+      "Rufzeichen": "TASSILI",
+      "Herkunftsland": "Algerien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Terra Avia",
+      "IATA": "–",
+      "ICAO": "TVR",
+      "Rufzeichen": "TERRAAVIA",
+      "Herkunftsland": "Moldau",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Thai AirAsia",
+      "IATA": "FD",
+      "ICAO": "AIQ",
+      "Rufzeichen": "THAI ASIA",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Thai Airways International",
+      "IATA": "TG",
+      "ICAO": "THA",
+      "Rufzeichen": "THAI",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Thai Lion Air",
+      "IATA": "SL",
+      "ICAO": "TML",
+      "Rufzeichen": "MENTARI",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Thai Smile Airways",
+      "IATA": "WE",
+      "ICAO": "THD",
+      "Rufzeichen": "THAI SMILE",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Thai Vietjet Air",
+      "IATA": "VZ",
+      "ICAO": "TVJ",
+      "Rufzeichen": "THAIVIET JET",
+      "Herkunftsland": "Thailand",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Tianjin Airlines",
+      "IATA": "GS",
+      "ICAO": "GDC",
+      "Rufzeichen": "GRAND CHINA",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Titan Airways",
+      "IATA": "ZT",
+      "ICAO": "AWC",
+      "Rufzeichen": "ZAP",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "Trade Air",
+      "IATA": "8P",
+      "ICAO": "TDR",
+      "Rufzeichen": "TRADEAIR",
+      "Herkunftsland": "Kroatien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T+"
+    },
+    {
+      "Name": "TransNusa Air Services",
+      "IATA": "M8",
+      "ICAO": "TNU",
+      "Rufzeichen": "TRANSNUSA",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Trans Maldivian Airways",
+      "IATA": "M8",
+      "ICAO": "HUM",
+      "Rufzeichen": "TRANS MALDIVIAN",
+      "Herkunftsland": "Malediven",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Transavia Airlines",
+      "IATA": "HV",
+      "ICAO": "TRA",
+      "Rufzeichen": "TRANSAVIA",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Transavia France",
+      "IATA": "TO",
+      "ICAO": "TVF",
+      "Rufzeichen": "FRENCH SUN",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Travel Service",
+      "IATA": "QS",
+      "ICAO": "TVS",
+      "Rufzeichen": "SKYTRAVEL",
+      "Herkunftsland": "Tschechien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Tri-MG Intra Asia Airlines",
+      "IATA": "GM",
+      "ICAO": "TMG",
+      "Rufzeichen": "TRILINES",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Trigana Air Service",
+      "IATA": "IL",
+      "ICAO": "TGN",
+      "Rufzeichen": "TRIGANA",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Tropic Air",
+      "IATA": "9N",
+      "ICAO": "TOS",
+      "Rufzeichen": "TROPISER",
+      "Herkunftsland": "Belize",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "TUIfly",
+      "IATA": "X3",
+      "ICAO": "TUI",
+      "Rufzeichen": "TUIJET",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "TUIfly Nordic",
+      "IATA": "6B",
+      "ICAO": "BLX",
+      "Rufzeichen": "BLUESCAN",
+      "Herkunftsland": "Schweden",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "TUI Airlines Belgium",
+      "IATA": "TB",
+      "ICAO": "JAF",
+      "Rufzeichen": "BEAUTY",
+      "Herkunftsland": "Belgien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "TUI Airlines Nederland",
+      "IATA": "OR",
+      "ICAO": "TFL",
+      "Rufzeichen": "ARKEFLY",
+      "Herkunftsland": "Niederlande",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "TUI Airways",
+      "IATA": "BY",
+      "ICAO": "TOM",
+      "Rufzeichen": "THOMSON",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Tunisair",
+      "IATA": "TU",
+      "ICAO": "TAR",
+      "Rufzeichen": "TUNAIR",
+      "Herkunftsland": "Tunesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Tunisair Express",
+      "IATA": "UG",
+      "ICAO": "TUX",
+      "Rufzeichen": "TUNEXPRESS",
+      "Herkunftsland": "Tunesien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Turkish Airlines",
+      "IATA": "TK",
+      "ICAO": "THY",
+      "Rufzeichen": "TURKISH",
+      "Herkunftsland": "Türkei",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Turkmenistan Airlines",
+      "IATA": "T5",
+      "ICAO": "TUA",
+      "Rufzeichen": "TURKMENISTAN",
+      "Herkunftsland": "Turkmenistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Tuva Airlines",
+      "IATA": "–",
+      "ICAO": "TIV",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "T’way Air",
+      "IATA": "TW",
+      "ICAO": "TWB",
+      "Rufzeichen": "TEEWAY",
+      "Herkunftsland": "Südkorea",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Twin Jet",
+      "IATA": "T7",
+      "ICAO": "TJT",
+      "Rufzeichen": "TWINJET",
+      "Herkunftsland": "Frankreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Tyrolean Jet Services",
+      "IATA": "–",
+      "ICAO": "TJS",
+      "Rufzeichen": "TYROLJET",
+      "Herkunftsland": "Österreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Ukraine Air Alliance",
+      "IATA": "–",
+      "ICAO": "UKL",
+      "Rufzeichen": "UKRAINE ALLIANCE",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "Ukraine Air Enterprise",
+      "IATA": "–",
+      "ICAO": "UKN",
+      "Rufzeichen": "ENTERPRISE UKRAINE",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "R"
+    },
+    {
+      "Name": "Ukraine International Airlines",
+      "IATA": "PS",
+      "ICAO": "AUI",
+      "Rufzeichen": "UKRAINE INTERNATIONAL",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Ulendo Airlink",
+      "IATA": "7Q",
+      "ICAO": "–",
+      "Rufzeichen": "ULENDO",
+      "Herkunftsland": "Malawi",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Uni Air",
+      "IATA": "B7",
+      "ICAO": "UIA",
+      "Rufzeichen": "GLORY",
+      "Herkunftsland": "Taiwan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "United Nations Humanitarian Air Service",
+      "IATA": "–",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Vereinte Nationen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "UNO-Einsätze"
+    },
+    {
+      "Name": "United Airlines",
+      "IATA": "UA",
+      "ICAO": "UAL",
+      "Rufzeichen": "UNITED",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "Star Alliance",
+      "Bemerkung": "U"
+    },
+    {
+      "Name": "UPS Airlines",
+      "IATA": "5X",
+      "ICAO": "UPS",
+      "Rufzeichen": "UPS",
+      "Herkunftsland": "USA",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Ural Airlines",
+      "IATA": "U6",
+      "ICAO": "SVR",
+      "Rufzeichen": "SVERDLOVSK AIR",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "UTair",
+      "IATA": "UT",
+      "ICAO": "TMN",
+      "Rufzeichen": "UTAIR",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Uzbekistan Airways",
+      "IATA": "HY",
+      "ICAO": "UZB",
+      "Rufzeichen": "UZBEK",
+      "Herkunftsland": "Usbekistan",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Vensecar Internacional",
+      "IATA": "V4",
+      "ICAO": "VEC",
+      "Rufzeichen": "VECAR",
+      "Herkunftsland": "Venezuela",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Vieques Air Link",
+      "IATA": "V4",
+      "ICAO": "VES",
+      "Rufzeichen": "VIEQUES",
+      "Herkunftsland": "Puerto Rico",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "VietJet Air",
+      "IATA": "VJ",
+      "ICAO": "VJC",
+      "Rufzeichen": "VIETJETAIR",
+      "Herkunftsland": "Vietnam",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Vietnam Airlines",
+      "IATA": "VN",
+      "ICAO": "HVN",
+      "Rufzeichen": "VIET NAM AIRLINES",
+      "Herkunftsland": "Vietnam",
+      "Luftfahrtallianz": "SkyTeam",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Vietnam Air Services Company",
+      "IATA": "0V",
+      "ICAO": "VFC",
+      "Rufzeichen": "VASCO AIR",
+      "Herkunftsland": "Vietnam",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Virgin Atlantic Airways",
+      "IATA": "VS",
+      "ICAO": "VIR",
+      "Rufzeichen": "VIRGIN",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Virgin Australia",
+      "IATA": "DJ",
+      "ICAO": "VOZ",
+      "Rufzeichen": "VIRGIN",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Virgin Australia Regional Airlines",
+      "IATA": "XR",
+      "ICAO": "OZW",
+      "Rufzeichen": "OZWEST",
+      "Herkunftsland": "Australien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "VistaJet",
+      "IATA": "–",
+      "ICAO": "VJS",
+      "Rufzeichen": "VISTA JET",
+      "Herkunftsland": "Schweiz",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Viva Aerobus",
+      "IATA": "VB",
+      "ICAO": "VIV",
+      "Rufzeichen": "AEROENLACES",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Viva Air Perú",
+      "IATA": "VV",
+      "ICAO": "VPE",
+      "Rufzeichen": "VIVA PERU",
+      "Herkunftsland": "Peru",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Viva Air Colombia",
+      "IATA": "FC",
+      "ICAO": "VVC",
+      "Rufzeichen": "VIVA COLOMBIA",
+      "Herkunftsland": "Kolumbien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "VoePass Linhas Aéreas",
+      "IATA": "2Z",
+      "ICAO": "PTB",
+      "Rufzeichen": "PASSAREDO",
+      "Herkunftsland": "Brasilien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Volaris",
+      "IATA": "Y4",
+      "ICAO": "VOI",
+      "Rufzeichen": "VOLARIS",
+      "Herkunftsland": "Mexiko",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Volga-Dnepr Airlines",
+      "IATA": "VI",
+      "ICAO": "VDA",
+      "Rufzeichen": "VOLGA-DNEPR",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "Volga-Dnepr Group",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Volkswagen AirService",
+      "IATA": "–",
+      "ICAO": "BTX",
+      "Rufzeichen": "Beetle",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "S"
+    },
+    {
+      "Name": "Vueling",
+      "IATA": "VY",
+      "ICAO": "VLG",
+      "Rufzeichen": "VUELING",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Wamos Air",
+      "IATA": "EB",
+      "ICAO": "PLM",
+      "Rufzeichen": "PULLMANTUR",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Wasaya Airways",
+      "IATA": "WT",
+      "ICAO": "WSG",
+      "Rufzeichen": "WASAYA",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "West Atlantic Sweden",
+      "IATA": "PT",
+      "ICAO": "SWN",
+      "Rufzeichen": "AIR SWEDEN",
+      "Herkunftsland": "Schweden  Luxemburg",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Westküstenflug",
+      "IATA": "WK",
+      "ICAO": "WKF",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Westair Wings Charters",
+      "IATA": "–",
+      "ICAO": "WAA",
+      "Rufzeichen": "WESTAIR WINGS",
+      "Herkunftsland": "Namibia",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "West Atlantic UK",
+      "IATA": "–",
+      "ICAO": "NPT",
+      "Rufzeichen": "NEPTUNE",
+      "Herkunftsland": "Vereinigtes Königreich",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "T"
+    },
+    {
+      "Name": "Westjet Airlines",
+      "IATA": "WS",
+      "ICAO": "WJA",
+      "Rufzeichen": "WESTJET",
+      "Herkunftsland": "Kanada",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "White Airways",
+      "IATA": "WI",
+      "ICAO": "WHT",
+      "Rufzeichen": "YOUNG SKY",
+      "Herkunftsland": "Portugal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "C"
+    },
+    {
+      "Name": "Widerøe’s Flyveselskap",
+      "IATA": "WF",
+      "ICAO": "WIF",
+      "Rufzeichen": "WIDEROE",
+      "Herkunftsland": "Norwegen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Winair",
+      "IATA": "WM",
+      "ICAO": "WIA",
+      "Rufzeichen": "WINWARD",
+      "Herkunftsland": "Sint Maarten",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Windrose Air",
+      "IATA": "–",
+      "ICAO": "QGA",
+      "Rufzeichen": "QUADRIGA",
+      "Herkunftsland": "Deutschland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Wings Abadi Airlines",
+      "IATA": "IW",
+      "ICAO": "WON",
+      "Rufzeichen": "WINGS ABADI",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Wizz Air",
+      "IATA": "W6",
+      "ICAO": "WZZ",
+      "Rufzeichen": "WIZZAIR",
+      "Herkunftsland": "Bulgarien Ungarn Polen Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "B"
+    },
+    {
+      "Name": "Xfly",
+      "IATA": "EE",
+      "ICAO": "EST",
+      "Rufzeichen": "REVAL",
+      "Herkunftsland": "Estland",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Xiamen Airlines",
+      "IATA": "MF",
+      "ICAO": "CXA",
+      "Rufzeichen": "Xiamen Air",
+      "Herkunftsland": "Volksrepublik China",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Xpressair",
+      "IATA": "XN",
+      "ICAO": "XAR",
+      "Rufzeichen": "TRAVEL EXPRESS",
+      "Herkunftsland": "Indonesien",
+      "Luftfahrtallianz": "",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Yakutia Airlines",
+      "IATA": "R3",
+      "ICAO": "SYL",
+      "Rufzeichen": "AIR YAKUTIA",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Yamal Airlines",
+      "IATA": "YC",
+      "ICAO": "LLM",
+      "Rufzeichen": "YAMAL",
+      "Herkunftsland": "Russland",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Yanair",
+      "IATA": "YE",
+      "ICAO": "ANR",
+      "Rufzeichen": "YANAIR",
+      "Herkunftsland": "Ukraine",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Yemenia",
+      "IATA": "IY",
+      "ICAO": "IYE",
+      "Rufzeichen": "Yemeni",
+      "Herkunftsland": "Jemen",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "Yeti Airlines",
+      "IATA": "YA",
+      "ICAO": "–",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Nepal",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "U+"
+    },
+    {
+      "Name": "Zagros Airlines",
+      "IATA": "–",
+      "ICAO": "IZG",
+      "Rufzeichen": "ZAGROS",
+      "Herkunftsland": "Iran",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P"
+    },
+    {
+      "Name": "ZanAir",
+      "IATA": "B4",
+      "ICAO": "TAN",
+      "Rufzeichen": "ZANAIR",
+      "Herkunftsland": "Tansania",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "P+"
+    },
+    {
+      "Name": "Zorex",
+      "IATA": "–",
+      "ICAO": "ORZ",
+      "Rufzeichen": "–",
+      "Herkunftsland": "Spanien",
+      "Luftfahrtallianz": "keine",
+      "Bemerkung": "T"
+    }
+  ]
+}
